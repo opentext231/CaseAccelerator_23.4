@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BFA4-4FE0CF131990">
+	<DocumentID>98FA9BBD-851C-A1EB-BFA4-4FE0CF12D990</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BFA4-4FE0CF12D990</Name>
+	<Description>Initiate Workflow Task-2</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-08-16T13:18:06.437</CreationDate>
+	<Notes/>
+	<DefaultText>Initiate Workflow Task-2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB320ABB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-BFA4-4FE0CF135990"
+		/>
+	</Translations>
+</TextIdentifier>

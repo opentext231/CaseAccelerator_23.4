@@ -1,0 +1,79 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8116-97593AD5D96C">
+	<DocumentID>98FA9BBD-851C-A1EB-8116-97593AD5996C</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-02T02:55:34.354</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EA-BF90-C24AE62F996C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-8116-97593AD5196C">
+			<DocumentID>98FA9BBD-851C-A1EB-8116-97593AD4D96C</DocumentID>
+			<Name>ReadSubCategory</Name>
+			<Description>Read SubCategory</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-02T02:55:34.354</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-C24AE62F996C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-8116-97593AD4196C">
+			<DocumentID>98FA9BBD-851C-A1EB-8116-97593AD3D96C</DocumentID>
+			<Name>GetParentParentCategory</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-02T02:55:34.355</CreationDate>
+			<Notes/>
+			<OperationType>GetParent</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-C24AE62F996C"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-D2B8268B996C"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-8116-97593AD4996C">
+			<DocumentID>98FA9BBD-851C-A1EB-8116-97593AD4596C</DocumentID>
+			<Name>UpdateSubCategory</Name>
+			<Description>Update SubCategory</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-02T02:55:34.355</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-C24AE62F996C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

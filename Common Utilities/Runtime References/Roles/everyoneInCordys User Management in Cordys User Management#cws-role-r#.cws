@@ -1,0 +1,37 @@
+
+<RoleRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8026-4A96600C996C">
+	<DocumentID>98FA9BBD-851C-A1EB-8026-4A96600C596C</DocumentID>
+	<Name>everyoneInCordys User Management in Cordys User Management</Name>
+	<Description>EveryoneInCordys User Management</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-27T08:14:45.69</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<CommonName>everyoneInCordys User Management</CommonName>
+	<DistinguishedName>cn=everyoneInCordys User Management,cn=Cordys User Management,cn=cordys,cn=defaultInst,o=opentext.net</DistinguishedName>
+	<ISVPName></ISVPName>
+	<type>Internal</type>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-8026-4A96600C196C">
+			<DocumentID>98FA9BBD-851C-A1EB-8026-4A96600BD96C</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-09-27T08:14:45.691</CreationDate>
+			<Notes/>
+			<ArtifactID>005056C0-0008-71DF-869F-58392A9D1995</ArtifactID>
+			<CAPID>005056c0-0008-71df-984b-63db9b039011</CAPID>
+			<CAPName>Cordys User Management</CAPName>
+			<CAPVersion>ver20.4build9</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleRuntime>

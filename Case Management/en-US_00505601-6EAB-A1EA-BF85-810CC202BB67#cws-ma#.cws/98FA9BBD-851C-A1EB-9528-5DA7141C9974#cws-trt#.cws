@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9528-5DA7141CD974">
+	<DocumentID>98FA9BBD-851C-A1EB-9528-5DA7141C9974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9528-5DA7141C9974</Name>
+	<Description>Get User By EMailID</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-12T06:44:00.522</CreationDate>
+	<Notes/>
+	<Text>Get User By EMailID</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9528-5DA7141C1974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

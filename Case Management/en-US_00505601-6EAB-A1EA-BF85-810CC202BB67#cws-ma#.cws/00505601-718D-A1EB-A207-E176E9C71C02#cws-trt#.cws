@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-A207-E176E9C75C02">
+	<DocumentID>00505601-718D-A1EB-A207-E176E9C71C02</DocumentID>
+	<Name>00505601-718D-A1EB-A207-E176E9C71C02</Name>
+	<Description>Case type</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-18T19:43:38.791</CreationDate>
+	<Notes/>
+	<Text>Case type</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-A207-E176E9C69C02"
+		/>
+	</TextIdentifier>
+</TranslatedText>

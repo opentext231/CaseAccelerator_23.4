@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-AB0A-16190DED19A8">
+	<DocumentID>98FA9BBD-851C-A1EC-AB0A-16190DECD9A8</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-AB0A-16190DECD9A8</Name>
+	<Description>ReleaseSchedulerTasksAtProjectLevel</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-25T11:18:58.233</CreationDate>
+	<Notes/>
+	<Text>ReleaseSchedulerTasksAtProjectLevel</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E1D19A7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-AB0A-16190DEC59A8"
+		/>
+	</TextIdentifier>
+</TranslatedText>

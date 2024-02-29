@@ -1,0 +1,37 @@
+
+<RoleRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8026-4A96600AD96C">
+	<DocumentID>98FA9BBD-851C-A1EB-8026-4A96600A996C</DocumentID>
+	<Name>Identity Administrator in OpenText Entity Identity Components</Name>
+	<Description>Identity Administrator</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-27T08:15:48.992</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<CommonName>Identity Administrator</CommonName>
+	<DistinguishedName>cn=Identity Administrator,cn=OpenText Entity Identity Components,cn=cordys,cn=defaultInst,o=opentext.net</DistinguishedName>
+	<ISVPName></ISVPName>
+	<type>Internal</type>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-8026-4A96600A596C">
+			<DocumentID>98FA9BBD-851C-A1EB-8026-4A96600A196C</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-09-27T08:15:48.993</CreationDate>
+			<Notes/>
+			<ArtifactID>F8B156B4-FF8F-11E6-E707-9FA82E5E1319</ArtifactID>
+			<CAPID>f8b156b4-ff8f-11e6-e656-2305fe2d7f32</CAPID>
+			<CAPName>OpenText Entity Identity Components</CAPName>
+			<CAPVersion>ver20.4build9</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleRuntime>

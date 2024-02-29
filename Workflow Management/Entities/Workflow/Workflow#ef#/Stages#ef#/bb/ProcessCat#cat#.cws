@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-95CC-CC86E1DA9974">
+	<DocumentID>98FA9BBD-851C-A1EB-95CC-CC86E1DA5974</DocumentID>
+	<Name>ProcessCat</Name>
+	<Description>ProcessCat</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-15T13:14:05.336</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC0-D9A34AEC996C"
+		/>
+	</BuildingBlock>
+</Category>

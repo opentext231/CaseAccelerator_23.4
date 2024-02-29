@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-852E-C1CE95EA9998">
+	<DocumentID>98FA9BBD-851C-A1EC-852E-C1CE95EA5998</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-852E-C1CE95EA5998</Name>
+	<Description>RejectionAction</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-09-13T17:56:35.748</CreationDate>
+	<Notes/>
+	<Text>RejectionAction</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-852E-C1CE95E9D998"
+		/>
+	</TextIdentifier>
+</TranslatedText>

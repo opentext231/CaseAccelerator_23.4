@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-95CC-CC86E1DC9974">
+	<DocumentID>98FA9BBD-851C-A1EB-95CC-CC86E1DC5974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-95CC-CC86E1DC5974</Name>
+	<Description>Do you want to add  Process Flows?</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-15T13:13:45.985</CreationDate>
+	<Notes/>
+	<Text>Do you want to add  Process Flows?</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-95CC-CC86E1DBD974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

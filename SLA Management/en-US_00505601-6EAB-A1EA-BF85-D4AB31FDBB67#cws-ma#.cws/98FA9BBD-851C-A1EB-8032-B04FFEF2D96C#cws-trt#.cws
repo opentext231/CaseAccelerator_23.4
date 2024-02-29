@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8032-B04FFEF3196C">
+	<DocumentID>98FA9BBD-851C-A1EB-8032-B04FFEF2D96C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8032-B04FFEF2D96C</Name>
+	<Description>All SLA Priorities</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-27T14:11:02.461</CreationDate>
+	<Notes/>
+	<Text>All SLA Priorities</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8032-B04FFEF2596C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

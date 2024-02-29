@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8133-8AEFCF15D96C">
+	<DocumentID>98FA9BBD-851C-A1EB-8133-8AEFCF15996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8133-8AEFCF15996C</Name>
+	<Description>HumanInteraction</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-02T16:53:51.34</CreationDate>
+	<Notes/>
+	<DefaultText>HumanInteraction</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-8025-F6EE2D97596C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-8133-8AEFCF16196C"
+		/>
+	</Translations>
+</TextIdentifier>

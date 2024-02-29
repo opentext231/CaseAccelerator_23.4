@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90BC-986200A519A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90BC-986200A4D9A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90BC-986200A4D9A1</Name>
+	<Description>Get Tasks-C</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-11T13:36:35.337</CreationDate>
+	<Notes/>
+	<DefaultText>Get Tasks-C</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB320ABB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-90BC-986200A559A1"
+		/>
+	</Translations>
+</TextIdentifier>

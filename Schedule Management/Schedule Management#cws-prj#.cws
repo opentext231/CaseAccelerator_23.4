@@ -1,0 +1,104 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A0C9-40EA7BD619A4">
+	<DocumentID>98FA9BBD-851C-A1EC-A0C9-40EA7BD5D9A4</DocumentID>
+	<Name>Schedule Management</Name>
+	<Description>Schedule Management</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-02-01T06:07:33.887</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A0C9-40EA7BD4D9A4">
+			<DocumentID>98FA9BBD-851C-A1EC-A0C9-40EA7BD499A4</DocumentID>
+			<Name>Opentext Schedule Management</Name>
+			<Description>Opentext Schedule Management</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-02-01T06:07:33.887</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>Opentext Schedule Management</ISVPackageFileName>
+			<ISVPackageOwner>Opentext</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Schedule Management</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EC-A0C9-40EA7BD559A4"
+			path="Schedule Management"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A0C9-40EA7BD459A4">
+			<DocumentID>98FA9BBD-851C-A1EC-A0C9-40EA7BD419A4</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-02-01T06:07:33.887</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="98FA9BBD-851C-A1EC-A0C9-40EA7BD359A4">
+					<DocumentID>98FA9BBD-851C-A1EC-A0C9-40EA7BD319A4</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>Joe Lewis</CreatedBy>
+					<CreationDate>2022-02-01T06:07:33.888</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="98FA9BBD-851C-A1EC-A0C9-40EA7BD299A4"
+							path="Schedule Management/en-US_98FA9BBD-851C-A1EC-A0C9-40EA7BD299A4"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="98FA9BBD-851C-A1EC-A0C9-40EA7BD419A4"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="98FA9BBD-851C-A1EC-A0C9-40EA7BD319A4"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="98FA9BBD-851C-A1EC-A0C9-40EA7BD399A4"
+					path="Schedule Management/TranslationInformation_98FA9BBD-851C-A1EC-A0C9-40EA7BD399A4"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90EB-01DFBA3159A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90EB-01DFBA3119A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90EB-01DFBA3119A1</Name>
+	<Description>Conditional Stage?</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-12T11:33:39.212</CreationDate>
+	<Notes/>
+	<Text>Conditional Stage?</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-90EB-01DFBA3099A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

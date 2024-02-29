@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-96DC-BD9CF904D9A3">
+	<DocumentID>98FA9BBD-851C-A1EC-96DC-BD9CF90499A3</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-96DC-BD9CF90499A3</Name>
+	<Description>CaseCloseFlag</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-12-12T17:50:13.737</CreationDate>
+	<Notes/>
+	<Text>CaseCloseFlag</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-96DC-BD9CF90419A3"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0050560B-AB67-A1EB-8263-D04CD406D113">
+	<DocumentID>0050560B-AB67-A1EB-8263-D04CD4069113</DocumentID>
+	<Name>0050560B-AB67-A1EB-8263-D04CD4069113</Name>
+	<Description>Is AD user</Description>
+	<CreatedBy>Joe</CreatedBy>
+	<CreationDate>2020-10-08T18:27:28.592</CreationDate>
+	<Notes/>
+	<Text>Is AD user</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31F87B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0050560B-AB67-A1EB-8263-D04CD4061113"
+		/>
+	</TextIdentifier>
+</TranslatedText>

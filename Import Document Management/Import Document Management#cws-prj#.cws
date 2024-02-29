@@ -1,0 +1,104 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027C6597E">
+	<DocumentID>98FA9BBD-851C-A1EB-A51B-865027C6197E</DocumentID>
+	<Name>Import Document Management</Name>
+	<Description>Import Document Management</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-03T11:26:14.647</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027C5197E">
+			<DocumentID>98FA9BBD-851C-A1EB-A51B-865027C4D97E</DocumentID>
+			<Name>Opentext Import Document Management</Name>
+			<Description>Opentext Import Document Management</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T11:26:14.646</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>Opentext Import Document Management</ISVPackageFileName>
+			<ISVPackageOwner>Opentext</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Import Document Management</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027C5997E"
+			path="Import Document Management"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027C4997E">
+			<DocumentID>98FA9BBD-851C-A1EB-A51B-865027C4597E</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T11:26:14.648</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027C3997E">
+					<DocumentID>98FA9BBD-851C-A1EB-A51B-865027C3597E</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>Joe Lewis</CreatedBy>
+					<CreationDate>2021-04-03T11:26:14.646</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="98FA9BBD-851C-A1EB-A51B-865027C2D97E"
+							path="Import Document Management/en-US_98FA9BBD-851C-A1EB-A51B-865027C2D97E"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="98FA9BBD-851C-A1EB-A51B-865027C4597E"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="98FA9BBD-851C-A1EB-A51B-865027C3597E"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="98FA9BBD-851C-A1EB-A51B-865027C3D97E"
+					path="Import Document Management/TranslationInformation_98FA9BBD-851C-A1EB-A51B-865027C3D97E"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

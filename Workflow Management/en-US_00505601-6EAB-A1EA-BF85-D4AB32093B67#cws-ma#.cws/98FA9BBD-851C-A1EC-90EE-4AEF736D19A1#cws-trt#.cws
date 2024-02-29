@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90EE-4AEF736D59A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90EE-4AEF736D19A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90EE-4AEF736D19A1</Name>
+	<Description>Select Task On Rejection</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-12T13:07:41.422</CreationDate>
+	<Notes/>
+	<Text>Select Task On Rejection</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-90EE-4AEF736C99A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

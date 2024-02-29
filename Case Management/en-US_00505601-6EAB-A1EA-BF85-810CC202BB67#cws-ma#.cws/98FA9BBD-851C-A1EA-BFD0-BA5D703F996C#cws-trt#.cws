@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFD0-BA5D703FD96C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFD0-BA5D703F996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFD0-BA5D703F996C</Name>
+	<Description>Opentext Case Management</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T15:47:32.683</CreationDate>
+	<Notes/>
+	<Text>Opentext Case Management</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFD0-BA5D703F196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

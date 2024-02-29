@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-81BE-8F3737F5196C">
+	<DocumentID>98FA9BBD-851C-A1EB-81BE-8F3737F4D96C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-81BE-8F3737F4D96C</Name>
+	<Description>Set Case Owner</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-05T11:02:47.248</CreationDate>
+	<Notes/>
+	<Text>Set Case Owner</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-81BE-8F3737F4596C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-AAD8-04814FE159A8">
+	<DocumentID>98FA9BBD-851C-A1EC-AAD8-04814FE119A8</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-AAD8-04814FE119A8</Name>
+	<Description>SetSchedulerTempDateProcess</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-24T10:52:00.955</CreationDate>
+	<Notes/>
+	<Text>SetSchedulerTempDateProcess</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A0C9-40EA7BD319A4"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-AAD8-04814FE099A8"
+		/>
+	</TextIdentifier>
+</TranslatedText>

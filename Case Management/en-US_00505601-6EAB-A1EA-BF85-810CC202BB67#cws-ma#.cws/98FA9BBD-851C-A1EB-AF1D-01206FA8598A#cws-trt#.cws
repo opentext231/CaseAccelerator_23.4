@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-AF1D-01206FA8998A">
+	<DocumentID>98FA9BBD-851C-A1EB-AF1D-01206FA8598A</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-AF1D-01206FA8598A</Name>
+	<Description>LicenseRenewalProcess</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-05-24T09:40:10.351</CreationDate>
+	<Notes/>
+	<Text>LicenseRenewalProcess</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-AF1D-01206FA7D98A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

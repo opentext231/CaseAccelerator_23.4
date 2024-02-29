@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-998F-1A98428299A3">
+	<DocumentID>98FA9BBD-851C-A1EC-998F-1A98428259A3</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-998F-1A98428259A3</Name>
+	<Description>Clone</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-12-26T11:16:24.126</CreationDate>
+	<Notes/>
+	<Text>Clone</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-998F-1A984281D9A3"
+		/>
+	</TextIdentifier>
+</TranslatedText>

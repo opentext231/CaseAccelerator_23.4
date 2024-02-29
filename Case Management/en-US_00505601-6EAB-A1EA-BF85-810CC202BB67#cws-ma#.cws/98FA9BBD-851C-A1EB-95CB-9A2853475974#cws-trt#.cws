@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-95CB-9A2853479974">
+	<DocumentID>98FA9BBD-851C-A1EB-95CB-9A2853475974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-95CB-9A2853475974</Name>
+	<Description>EnableTimer</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-15T12:47:12.796</CreationDate>
+	<Notes/>
+	<Text>EnableTimer</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-95CB-9A285346D974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

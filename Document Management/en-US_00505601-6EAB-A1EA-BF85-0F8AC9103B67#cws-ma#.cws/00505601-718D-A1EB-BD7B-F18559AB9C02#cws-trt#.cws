@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-BD7B-F18559ABDC02">
+	<DocumentID>00505601-718D-A1EB-BD7B-F18559AB9C02</DocumentID>
+	<Name>00505601-718D-A1EB-BD7B-F18559AB9C02</Name>
+	<Description>Is Document Mandatory?</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-08-05T13:21:37.85</CreationDate>
+	<Notes/>
+	<Text>Is Document Mandatory?</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-0F8AC910BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-BD7B-F18559AB1C02"
+		/>
+	</TextIdentifier>
+</TranslatedText>

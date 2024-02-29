@@ -1,0 +1,15 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportSource xmlns="http://schemas.cordys.com/default">
+      <Sources>
+        <Source>
+          <Name>PARAMETER</Name>
+          <Description>PARAMETER</Description>
+          <Status>PARAMETER</Status>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+        </Source>
+      </Sources>
+    </ImportSource>
+  </SOAP:Body>
+</SOAP:Envelope>

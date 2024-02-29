@@ -1,0 +1,22 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportSLADefinition xmlns="http://schemas.cordys.com/default">
+      <SLADefinitions>
+        <SLADefinition>
+          <Name>PARAMETER</Name>
+          <Description>PARAMETER</Description>
+          <Status>PARAMETER</Status>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <Duration>PARAMETER</Duration>
+          <Workflow>PARAMETER</Workflow>
+          <Priority>PARAMETER</Priority>
+          <TargetStage>PARAMETER</TargetStage>
+          <StartCondition>PARAMETER</StartCondition>
+          <PauseCondition>PARAMETER</PauseCondition>
+          <StopCondition>PARAMETER</StopCondition>
+        </SLADefinition>
+      </SLADefinitions>
+    </ImportSLADefinition>
+  </SOAP:Body>
+</SOAP:Envelope>

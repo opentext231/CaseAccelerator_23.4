@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-AAD9-63883F3B19A8">
+	<DocumentID>98FA9BBD-851C-A1EC-AAD9-63883F3AD9A8</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-AAD9-63883F3AD9A8</Name>
+	<Description>Planned</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-24T13:06:37.307</CreationDate>
+	<Notes/>
+	<Text>Planned</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A0C9-40EA7BD319A4"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-AAD9-63883F3A59A8"
+		/>
+	</TextIdentifier>
+</TranslatedText>

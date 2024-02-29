@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0050560B-AB67-A1EB-82BB-7E1F68FB5113">
+	<DocumentID>0050560B-AB67-A1EB-82BB-7E1F68FB1113</DocumentID>
+	<Name>0050560B-AB67-A1EB-82BB-7E1F68FB1113</Name>
+	<Description>Duration after SLA</Description>
+	<CreatedBy>Joe</CreatedBy>
+	<CreationDate>2020-10-10T11:53:42.546</CreationDate>
+	<Notes/>
+	<Text>Duration after SLA</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0050560B-AB67-A1EB-82BB-7E1F68FA9113"
+		/>
+	</TextIdentifier>
+</TranslatedText>

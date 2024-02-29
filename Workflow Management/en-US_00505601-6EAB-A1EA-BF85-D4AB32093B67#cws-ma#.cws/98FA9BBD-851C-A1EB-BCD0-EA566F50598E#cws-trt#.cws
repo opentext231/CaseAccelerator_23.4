@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BCD0-EA566F50998E">
+	<DocumentID>98FA9BBD-851C-A1EB-BCD0-EA566F50598E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BCD0-EA566F50598E</Name>
+	<Description>Update Rejection Process</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-08-02T03:43:33.938</CreationDate>
+	<Notes/>
+	<Text>Update Rejection Process</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-BCD0-EA566F4FD98E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A5E8-310C0C4D197F">
+	<DocumentID>98FA9BBD-851C-A1EB-A5E8-310C0C4CD97F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A5E8-310C0C4CD97F</Name>
+	<Description>getUnitPositions</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-07T13:14:46.932</CreationDate>
+	<Notes/>
+	<Text>getUnitPositions</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027B7597E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A5E8-310C0C4C597F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

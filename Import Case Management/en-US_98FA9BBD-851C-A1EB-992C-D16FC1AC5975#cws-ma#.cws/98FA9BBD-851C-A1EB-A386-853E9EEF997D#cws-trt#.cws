@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A386-853E9EEFD97D">
+	<DocumentID>98FA9BBD-851C-A1EB-A386-853E9EEF997D</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A386-853E9EEF997D</Name>
+	<Description>Create Case Routing - User ID Empty</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-26T10:01:01.901</CreationDate>
+	<Notes/>
+	<Text>Create Case Routing - User ID Empty</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ACD975"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A386-853E9EEF197D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

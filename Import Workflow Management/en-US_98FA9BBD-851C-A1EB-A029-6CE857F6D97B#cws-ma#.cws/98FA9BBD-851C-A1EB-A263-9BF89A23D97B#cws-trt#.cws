@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A263-9BF89A24197B">
+	<DocumentID>98FA9BBD-851C-A1EB-A263-9BF89A23D97B</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A263-9BF89A23D97B</Name>
+	<Description>ImportProcessFlow</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-20T15:10:44.194</CreationDate>
+	<Notes/>
+	<Text>ImportProcessFlow</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-A029-6CE857F7597B"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A263-9BF89A23597B"
+		/>
+	</TextIdentifier>
+</TranslatedText>

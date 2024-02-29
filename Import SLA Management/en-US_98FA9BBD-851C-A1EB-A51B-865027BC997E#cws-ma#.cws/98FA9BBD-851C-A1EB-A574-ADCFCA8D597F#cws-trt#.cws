@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A574-ADCFCA8D997F">
+	<DocumentID>98FA9BBD-851C-A1EB-A574-ADCFCA8D597F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A574-ADCFCA8D597F</Name>
+	<Description>Get Target Stage</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-05T05:51:04.09</CreationDate>
+	<Notes/>
+	<Text>Get Target Stage</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027BD197E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A574-ADCFCA8CD97F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

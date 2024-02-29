@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-825A-98689DC4196D">
+	<DocumentID>98FA9BBD-851C-A1EB-825A-98689DC3D96D</DocumentID>
+	<Name>HeaderCat</Name>
+	<Description>HeaderCat</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-08T13:45:33.817</CreationDate>
+	<Notes/>
+	<referenceCount>4</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BF8F-49E788CED96C"
+		/>
+	</BuildingBlock>
+</Category>

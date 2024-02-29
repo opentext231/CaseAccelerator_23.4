@@ -1,0 +1,14 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportTeam xmlns="http://schemas.cordys.com/default">
+      <Teams>
+        <Team>
+          <TeamName>PARAMETER</TeamName>
+          <Description>PARAMETER</Description>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+        </Team>
+      </Teams>
+    </ImportTeam>
+  </SOAP:Body>
+</SOAP:Envelope>

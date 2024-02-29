@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9984-405E40105975">
+	<DocumentID>98FA9BBD-851C-A1EB-9984-405E40101975</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9984-405E40101975</Name>
+	<Description>Create Priority</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-03T11:30:15.041</CreationDate>
+	<Notes/>
+	<Text>Create Priority</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ACD975"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9984-405E400F9975"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BF96-AF9CD27B196C">
+	<DocumentID>98FA9BBD-851C-A1EA-BF96-AF9CD27AD96C</DocumentID>
+	<Name>TeamWebLib</Name>
+	<Description>TeamWebLib</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-24T11:47:26.769</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="00505601-6EAB-A1EA-BF86-96EC99D43B67"
+			path="Team Management/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

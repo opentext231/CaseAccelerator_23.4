@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-AFEC-20D67B3299AA">
+	<DocumentID>98FA9BBD-851C-A1EC-AFEC-20D67B3259AA</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-AFEC-20D67B3259AA</Name>
+	<Description>InProgress</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-04-19T07:21:17.558</CreationDate>
+	<Notes/>
+	<Text>InProgress</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E1D19A7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-AFEC-20D67B31D9AA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

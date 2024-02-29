@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-81B8-DDE7C073596C">
+	<DocumentID>98FA9BBD-851C-A1EB-81B8-DDE7C073196C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-81B8-DDE7C073196C</Name>
+	<Description>TaskStatus_Internal</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-05T08:24:26.708</CreationDate>
+	<Notes/>
+	<Text>TaskStatus_Internal</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-81B8-DDE7C072996C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

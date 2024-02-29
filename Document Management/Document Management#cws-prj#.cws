@@ -1,0 +1,104 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="00505601-6EAB-A1EA-BF85-0F8AC913BB67">
+	<DocumentID>00505601-6EAB-A1EA-BF85-0F8AC9137B67</DocumentID>
+	<Name>Document Management</Name>
+	<Description>Document Management</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-24T03:31:25.49</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="00505601-6EAB-A1EA-BF85-0F8AC9127B67">
+			<DocumentID>00505601-6EAB-A1EA-BF85-0F8AC9123B67</DocumentID>
+			<Name>Opentext Document Management</Name>
+			<Description>Opentext Document Management</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2020-09-24T03:31:25.49</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>Opentext Document Management</ISVPackageFileName>
+			<ISVPackageOwner>Opentext</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Document Management</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-0F8AC912FB67"
+			path="Document Management"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="00505601-6EAB-A1EA-BF85-0F8AC911FB67">
+			<DocumentID>00505601-6EAB-A1EA-BF85-0F8AC911BB67</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2020-09-24T03:31:25.49</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00505601-6EAB-A1EA-BF85-0F8AC910FB67">
+					<DocumentID>00505601-6EAB-A1EA-BF85-0F8AC910BB67</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2020-09-24T03:31:25.49</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="00505601-6EAB-A1EA-BF85-0F8AC9103B67"
+							path="Document Management/en-US_00505601-6EAB-A1EA-BF85-0F8AC9103B67"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00505601-6EAB-A1EA-BF85-0F8AC911BB67"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="00505601-6EAB-A1EA-BF85-0F8AC910BB67"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="00505601-6EAB-A1EA-BF85-0F8AC9113B67"
+					path="Document Management/TranslationInformation_00505601-6EAB-A1EA-BF85-0F8AC9113B67"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

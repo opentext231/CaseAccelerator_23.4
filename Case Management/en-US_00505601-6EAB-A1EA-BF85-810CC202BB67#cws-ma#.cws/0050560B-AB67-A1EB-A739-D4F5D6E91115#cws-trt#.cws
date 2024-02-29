@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0050560B-AB67-A1EB-A739-D4F5D6E95115">
+	<DocumentID>0050560B-AB67-A1EB-A739-D4F5D6E91115</DocumentID>
+	<Name>0050560B-AB67-A1EB-A739-D4F5D6E91115</Name>
+	<Description>Doc Generation Templates</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2021-04-14T06:29:55.938</CreationDate>
+	<Notes/>
+	<Text>Doc Generation Templates</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0050560B-AB67-A1EB-A739-D4F5D6E89115"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFC0-E8920E7CD96C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFC0-E8920E7C996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFC0-E8920E7C996C</Name>
+	<Description>IsLifecycleStage</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T07:50:22.319</CreationDate>
+	<Notes/>
+	<Text>IsLifecycleStage</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC0-E8920E7C196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,53 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B92-34644888D972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B92-346448889972</DocumentID>
+	<Name>ReminderEMail</Name>
+	<Description>Reminder email</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-24T11:35:12.057</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hi&amp;nbsp;{item.Properties.RefCaseOwner},&lt;br /&gt;
+&lt;br /&gt;
+{item.Properties.RefCaseID} is waiting for you to resolve. Please resolve the case to meet your service level agreement.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+Thanks! Have a great day!&lt;br /&gt;
+&lt;br /&gt;
+Case Management Team</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Reminder: {item.Properties.RefCaseID} is waiting for resolution</Subject>
+	<To>{item.Properties.RefCaseOwnerMailID}</To>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC6-8261E6C5D96C"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-718D-A1EB-9BEE-835702B55C02">
+			<DocumentID>00505601-718D-A1EB-9BEE-835702B51C02</DocumentID>
+			<Name>00505601-718D-A1EB-9BEE-835702B51C02</Name>
+			<Description>00505601-718D-A1EB-9BEE-835702B51C02</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-02-15T18:22:34.428</CreationDate>
+			<Notes/>
+			<DeveloperText>Reminder email </DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-718D-A1EB-9BEE-835702B59C02"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

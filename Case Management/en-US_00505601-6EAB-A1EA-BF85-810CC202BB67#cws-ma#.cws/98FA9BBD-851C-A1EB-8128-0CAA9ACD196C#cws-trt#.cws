@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8128-0CAA9ACD596C">
+	<DocumentID>98FA9BBD-851C-A1EB-8128-0CAA9ACD196C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8128-0CAA9ACD196C</Name>
+	<Description>EditWorkflow</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-02T11:22:32.877</CreationDate>
+	<Notes/>
+	<Text>EditWorkflow</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8128-0CAA9ACC996C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

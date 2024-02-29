@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-848E-C4370A675997">
+	<DocumentID>98FA9BBD-851C-A1EC-848E-C4370A671997</DocumentID>
+	<Name>LifeCat</Name>
+	<Description>LifeCat</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-09-10T13:34:58.153</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC0-D9A34AEC996C"
+		/>
+	</BuildingBlock>
+</Category>

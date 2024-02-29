@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-930F-E880FBD4D9A1">
+	<DocumentID>98FA9BBD-851C-A1EC-930F-E880FBD499A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-930F-E880FBD499A1</Name>
+	<Description>Subcases</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-23T09:33:39.417</CreationDate>
+	<Notes/>
+	<Text>Subcases</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-930F-E880FBD419A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

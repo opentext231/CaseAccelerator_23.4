@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A527-C8638B13D97E">
+	<DocumentID>98FA9BBD-851C-A1EB-A527-C8638B13997E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A527-C8638B13997E</Name>
+	<Description>ImportSLAPriority</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-03T17:08:00.067</CreationDate>
+	<Notes/>
+	<Text>ImportSLAPriority</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027BD197E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A527-C8638B13197E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

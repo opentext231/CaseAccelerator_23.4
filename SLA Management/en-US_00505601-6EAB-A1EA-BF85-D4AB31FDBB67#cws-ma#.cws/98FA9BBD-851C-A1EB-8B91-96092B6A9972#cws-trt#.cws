@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B91-96092B6AD972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B91-96092B6A9972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8B91-96092B6A9972</Name>
+	<Description>SLAEmailTemplate</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-24T11:21:44.409</CreationDate>
+	<Notes/>
+	<Text>SLAEmailTemplate</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8B91-96092B6A1972"
+		/>
+	</TextIdentifier>
+</TranslatedText>

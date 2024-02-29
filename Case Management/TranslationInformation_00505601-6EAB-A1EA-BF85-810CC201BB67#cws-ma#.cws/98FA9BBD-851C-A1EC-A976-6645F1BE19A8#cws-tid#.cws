@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A976-6645F1BE59A8">
+	<DocumentID>98FA9BBD-851C-A1EC-A976-6645F1BE19A8</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-A976-6645F1BE19A8</Name>
+	<Description>Edit Scheduler</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-17T10:06:53.268</CreationDate>
+	<Notes/>
+	<DefaultText>Edit Scheduler</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-A976-6645F1BE99A8"
+		/>
+	</Translations>
+</TextIdentifier>

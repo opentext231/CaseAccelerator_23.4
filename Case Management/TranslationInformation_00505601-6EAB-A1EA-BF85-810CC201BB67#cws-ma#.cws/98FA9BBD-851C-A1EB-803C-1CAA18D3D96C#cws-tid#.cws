@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-803C-1CAA18D4196C">
+	<DocumentID>98FA9BBD-851C-A1EB-803C-1CAA18D3D96C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-803C-1CAA18D3D96C</Name>
+	<Description>Active Case Routings</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-27T18:39:48.49</CreationDate>
+	<Notes/>
+	<DefaultText>Active Case Routings</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-803C-1CAA18D4596C"
+		/>
+	</Translations>
+</TextIdentifier>

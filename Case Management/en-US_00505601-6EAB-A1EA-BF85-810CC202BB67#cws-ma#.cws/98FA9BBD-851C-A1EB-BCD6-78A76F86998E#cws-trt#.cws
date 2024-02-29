@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BCD6-78A76F86D98E">
+	<DocumentID>98FA9BBD-851C-A1EB-BCD6-78A76F86998E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BCD6-78A76F86998E</Name>
+	<Description>Process Flow Initiation</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-08-02T06:22:17.178</CreationDate>
+	<Notes/>
+	<Text>Process Flow Initiation</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-BCD6-78A76F86198E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

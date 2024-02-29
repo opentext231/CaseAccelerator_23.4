@@ -1,0 +1,15 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportPriority xmlns="http://schemas.cordys.com/default">
+      <Priorities>
+        <Priority>
+          <Name>PARAMETER</Name>
+          <Description>PARAMETER</Description>
+          <Status>PARAMETER</Status>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+        </Priority>
+      </Priorities>
+    </ImportPriority>
+  </SOAP:Body>
+</SOAP:Envelope>

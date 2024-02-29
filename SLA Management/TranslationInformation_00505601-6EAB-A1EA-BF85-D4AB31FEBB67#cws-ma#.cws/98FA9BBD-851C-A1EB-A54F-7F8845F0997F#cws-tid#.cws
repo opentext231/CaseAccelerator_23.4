@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A54F-7F8845F0D97F">
+	<DocumentID>98FA9BBD-851C-A1EB-A54F-7F8845F0997F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A54F-7F8845F0997F</Name>
+	<Description>ReadSLAEMailTemplate</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-04T12:31:31.589</CreationDate>
+	<Notes/>
+	<DefaultText>ReadSLAEMailTemplate</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FF3B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-A54F-7F8845F1197F"
+		/>
+	</Translations>
+</TextIdentifier>

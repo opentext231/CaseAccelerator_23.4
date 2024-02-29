@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>AppWorks Case Accelerator</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../thirdparty/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="landingcss.css">
+   <script src="../../thirdparty/jquery/jquery.js"></script>
+  <script src="landingpage_main.js"></script>
+  <script src="../../thirdparty/bootstrap/js/bootstrap.min.js"></script>
+  <style>
+
+  </style>
+</head>
+
+<body onload='fillUser()'>
+  <div class="container-fluid">
+    <div class="row" style="height:50%;">
+		<div id="workspace6" class="workspacev col-sm-3">
+			<div class="well otwell">
+				<div class="content" tabindex="0" style="padding:16px;">
+					<div class="hero_title" style="padding: 11%;
+    font-family: 'Aktiv grotesk';">
+						<div id="create_icon-holder" style="margin: auto;width: 105px;">
+							<img src="" id="user_icon" style="height:105px;width:105px;border-radius:50%;"></img>
+						</div>
+						<div id="creat_text_greeting" style="text-align: center;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 0px;"><h3>
+							Welcome,</h3>
+						</div>
+						<div id="creat_text_name" style="text-align: center;height: 25px;color:#fff;font-size:18px;white-space: nowrap;text-overflow: ellipsis;word-break: break-all;overflow: hidden;">
+							${fullName}
+						</div>
+						<div id="logged_in_date" style="text-align: center;height: 25px;color:#fff;padding-top: 10px;">
+								${date}
+						</div>
+					</div>
+			</div>
+        </div>
+	</div>
+      <div id="workspace2" class="workspacev col-sm-3">
+        <div class="well otwell">
+          <div class="content" tabindex="0">
+            <div class="icon-holder">
+              <img style="height:7vw" src="icons/title_case.svg"></img>
+              <h3>Case Management</h3>
+              <p>Create and manage cases </p>
+            </div>
+          </div>
+        </div>
+      </div>
+	  <div id="workspace3" class="workspaceb col-sm-3">
+        <div class="well otwell">
+          <div class="content" tabindex="0">
+            <div class="icon-holder">
+              <img style="height:7vw" src="icons/title_workflows.svg"></img>
+              <h3>Workflow Management</h3>
+              <p>Create and manage workflows</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="workspace4" class="workspaceb col-sm-3">
+        <div class="well otwell">
+          <div class="content" tabindex="0">
+            <div class="icon-holder">
+              <img style="height:7vw" src="icons/title_sla.svg"></img>
+              <h3>SLA Management</h3>
+              <p>Create and manage SLA definitions</p>
+            </div>
+          </div>
+        </div>
+      </div>
+	</div>
+	<div class="row" style="height:50%;">
+      <div id="workspace5" class="workspacev col-sm-3">
+        <div class="well otwell">
+          <div class="content" tabindex="0">
+            <div class="icon-holder">
+              <img style="height:7vw" src="icons/cases.svg"></img>
+              <h3>Task List Management</h3>
+              <p>Create and manage task lists</p>
+            </div>
+          </div>
+        </div>
+      </div>
+	 <div id="workspace1" class="workspaceb col-sm-3">
+        <div class="well otwell">
+          <div class="content" tabindex="0">
+            <div class="icon-holder">
+              <img style="height:7vw" src="icons/employees.svg"></img>
+              <h3>Team Management</h3>
+              <p>Manage team members and teams</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="workspace7" class="workspaceb col-sm-3">
+        <div class="well otwell">
+          <div class="content" tabindex="0">
+            <div class="icon-holder">
+              <img style="height:7vw" src="icons/documents.svg"></img>
+              <h3>Documents</h3>
+              <p>Manage document sets</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+      <div id="workspace8" class="workspacev col-sm-3">
+        <div class="well otwell">
+          <div class="content" tabindex="0">
+            <div class="icon-holder">
+              <img style="height:7vw" src="icons/my_workspace.svg"></img>
+              <h3>Data Migration</h3>
+              <p>Import data into Entities from Excel Sheets</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+			function fillUser(){
+				var userID, pictureURL, fullName,userName;
+				const FULL_NAME = 'fullName';
+				const PICTURE = 'picture';
+				var parts = this.document.location.href.split('.htm');
+				var params = parts[1].split('&&');
+				params.forEach(function(param){
+					var arguments = param.split('=');
+					if(param.indexOf(FULL_NAME)!= -1){
+						fullName = param.substring(FULL_NAME.length +1 , param.length);
+                                                fullName = decodeURIComponent(fullName);
+					}
+					if(param.indexOf(PICTURE) != -1){
+						pictureURL = param.substring(PICTURE.length+1 , param.length);
+					}
+				});
+				
+				document.getElementById('creat_text_name').innerText = fullName;
+				document.getElementById('user_icon').src= pictureURL;
+
+                                document.getElementById('creat_text_name').setAttribute('title', fullName);
+			}
+			let date = new Date().toLocaleString();
+			document.getElementById('logged_in_date').innerText = date;
+			
+		</script>
+</body>
+
+</html>

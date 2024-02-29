@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-9B4C-BAF3B28999A3">
+	<DocumentID>98FA9BBD-851C-A1EC-9B4C-BAF3B28959A3</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-9B4C-BAF3B28959A3</Name>
+	<Description>Update TaskList -2</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-01-04T07:50:39.624</CreationDate>
+	<Notes/>
+	<Text>Update TaskList -2</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3203FB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-9B4C-BAF3B288D9A3"
+		/>
+	</TextIdentifier>
+</TranslatedText>

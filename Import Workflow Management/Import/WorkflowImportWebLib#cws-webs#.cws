@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A029-6CE857ED197B">
+	<DocumentID>98FA9BBD-851C-A1EB-A029-6CE857ECD97B</DocumentID>
+	<Name>WorkflowImportWebLib</Name>
+	<Description>WorkflowImportWebLib</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-09T07:16:05.003</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EB-A029-6CE857F4197B"
+			path="Import Workflow Management/Import"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

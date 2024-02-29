@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BA87-0CC604A1998D">
+	<DocumentID>98FA9BBD-851C-A1EB-BA87-0CC604A1598D</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BA87-0CC604A1598D</Name>
+	<Description>UpdateTaskStatus</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-07-21T12:07:31.42</CreationDate>
+	<Notes/>
+	<Text>UpdateTaskStatus</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-BA87-0CC604A0D98D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

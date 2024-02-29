@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90EE-4AEF7368D9A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90EE-4AEF736899A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90EE-4AEF736899A1</Name>
+	<Description>Workflow Actions</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-12T13:17:06.822</CreationDate>
+	<Notes/>
+	<Text>Workflow Actions</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-90EE-4AEF736819A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

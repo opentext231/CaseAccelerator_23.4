@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-5D4688AD9972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B5F-5D4688AD5972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8B5F-5D4688AD5972</Name>
+	<Description>Parent Folder</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-23T11:19:42.157</CreationDate>
+	<Notes/>
+	<DefaultText>Parent Folder</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FF3B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-8B5F-5D4688ADD972"
+		/>
+	</Translations>
+</TextIdentifier>

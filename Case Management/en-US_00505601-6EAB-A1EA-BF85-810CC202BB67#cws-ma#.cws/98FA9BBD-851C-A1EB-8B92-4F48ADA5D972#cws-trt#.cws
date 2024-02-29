@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B92-4F48ADA61972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B92-4F48ADA5D972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8B92-4F48ADA5D972</Name>
+	<Description>Breached</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-24T11:51:12.013</CreationDate>
+	<Notes/>
+	<Text>Breached</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8B92-4F48ADA55972"
+		/>
+	</TextIdentifier>
+</TranslatedText>

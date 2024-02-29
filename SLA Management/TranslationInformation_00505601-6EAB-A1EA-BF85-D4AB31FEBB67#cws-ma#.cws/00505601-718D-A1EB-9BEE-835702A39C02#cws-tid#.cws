@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-9BEE-835702A3DC02">
+	<DocumentID>00505601-718D-A1EB-9BEE-835702A39C02</DocumentID>
+	<Name>00505601-718D-A1EB-9BEE-835702A39C02</Name>
+	<Description>Assignee email  ID</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-15T18:36:18.799</CreationDate>
+	<Notes/>
+	<DefaultText>Assignee email  ID</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FF3B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-9BEE-835702A41C02"
+		/>
+	</Translations>
+</TextIdentifier>

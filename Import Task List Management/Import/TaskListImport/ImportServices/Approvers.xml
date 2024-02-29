@@ -1,0 +1,17 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportApprovers xmlns="http://schemas.cordys.com/default">
+      <Approver>
+        <Approvers>
+          <TaskName>PARAMETER</TaskName>
+          <Step>PARAMETER</Step>
+          <ApproverName>PARAMETER</ApproverName>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <ApproverType>PARAMETER</ApproverType>
+          <TaskListName>PARAMETER</TaskListName>
+        </Approvers>
+      </Approver>
+    </ImportApprovers>
+  </SOAP:Body>
+</SOAP:Envelope>

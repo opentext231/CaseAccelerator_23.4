@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-9A8C-54F2765F1C02">
+	<DocumentID>00505601-718D-A1EB-9A8C-54F2765EDC02</DocumentID>
+	<Name>00505601-718D-A1EB-9A8C-54F2765EDC02</Name>
+	<Description>Is OTDS user?</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-08T17:16:12.27</CreationDate>
+	<Notes/>
+	<Text>Is OTDS user?</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31F87B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-9A8C-54F2765E5C02"
+		/>
+	</TextIdentifier>
+</TranslatedText>

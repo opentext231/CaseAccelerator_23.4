@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BC08-8BD403A4998E">
+	<DocumentID>98FA9BBD-851C-A1EB-BC08-8BD403A4598E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BC08-8BD403A4598E</Name>
+	<Description>UpdateRejectedTask</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-07-29T04:05:25.941</CreationDate>
+	<Notes/>
+	<Text>UpdateRejectedTask</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-BC08-8BD403A3D98E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

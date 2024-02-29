@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-808B-16710635996C">
+	<DocumentID>98FA9BBD-851C-A1EB-808B-16710635596C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-808B-16710635596C</Name>
+	<Description>Read Priority</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-29T08:19:00.178</CreationDate>
+	<Notes/>
+	<Text>Read Priority</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-808B-16710634D96C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

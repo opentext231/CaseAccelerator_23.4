@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90E6-B062D79ED9A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90E6-B062D79E99A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90E6-B062D79E99A1</Name>
+	<Description>Read Task -2</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-12T09:28:43.924</CreationDate>
+	<Notes/>
+	<Text>Read Task -2</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-90E6-B062D79E19A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

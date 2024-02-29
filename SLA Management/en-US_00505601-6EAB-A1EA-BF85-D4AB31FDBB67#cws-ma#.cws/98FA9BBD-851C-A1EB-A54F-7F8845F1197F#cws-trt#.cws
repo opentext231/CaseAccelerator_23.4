@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A54F-7F8845F1597F">
+	<DocumentID>98FA9BBD-851C-A1EB-A54F-7F8845F1197F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A54F-7F8845F1197F</Name>
+	<Description>ReadSLAEMailTemplate</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-04T12:31:31.589</CreationDate>
+	<Notes/>
+	<Text>ReadSLAEMailTemplate</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A54F-7F8845F0997F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

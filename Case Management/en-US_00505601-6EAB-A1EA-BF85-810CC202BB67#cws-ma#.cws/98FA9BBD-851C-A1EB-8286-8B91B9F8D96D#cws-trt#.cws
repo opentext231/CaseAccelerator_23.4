@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8286-8B91B9F9196D">
+	<DocumentID>98FA9BBD-851C-A1EB-8286-8B91B9F8D96D</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8286-8B91B9F8D96D</Name>
+	<Description>ReadLifecycleTask</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-09T10:33:17.396</CreationDate>
+	<Notes/>
+	<Text>ReadLifecycleTask</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8286-B55B6CF6196D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

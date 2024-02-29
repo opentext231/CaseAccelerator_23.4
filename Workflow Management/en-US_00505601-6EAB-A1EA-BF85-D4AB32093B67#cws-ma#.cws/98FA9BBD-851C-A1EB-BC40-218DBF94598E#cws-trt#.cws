@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BC40-218DBF94998E">
+	<DocumentID>98FA9BBD-851C-A1EB-BC40-218DBF94598E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BC40-218DBF94598E</Name>
+	<Description>RejectedProcess</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-07-30T06:49:29.987</CreationDate>
+	<Notes/>
+	<Text>RejectedProcess</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-BC40-218DBF93D98E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

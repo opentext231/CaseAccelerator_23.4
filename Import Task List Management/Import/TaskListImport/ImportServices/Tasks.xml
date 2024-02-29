@@ -1,0 +1,19 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportTasks xmlns="http://schemas.cordys.com/default">
+      <TasksInfo>
+        <Tasks>
+          <TaskName>PARAMETER</TaskName>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <UILayout>PARAMETER</UILayout>
+          <TaskListName>PARAMETER</TaskListName>
+          <Step>PARAMETER</Step>
+          <EmailTemplate>PARAMETER</EmailTemplate>
+          <TaskDuration>PARAMETER</TaskDuration>
+          <TaskType>PARAMETER</TaskType>
+        </Tasks>
+      </TasksInfo>
+    </ImportTasks>
+  </SOAP:Body>
+</SOAP:Envelope>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-82BB-D7A2EB459BFF">
+	<DocumentID>00505601-718D-A1EB-82BB-D7A2EB455BFF</DocumentID>
+	<Name>00505601-718D-A1EB-82BB-D7A2EB455BFF</Name>
+	<Description>Read EMail Template</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-10T11:55:21.867</CreationDate>
+	<Notes/>
+	<Text>Read EMail Template</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-82BB-D7A2EB44DBFF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

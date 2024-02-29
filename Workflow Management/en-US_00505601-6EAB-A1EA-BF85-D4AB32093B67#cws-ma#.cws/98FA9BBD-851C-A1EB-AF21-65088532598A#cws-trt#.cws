@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-AF21-65088532998A">
+	<DocumentID>98FA9BBD-851C-A1EB-AF21-65088532598A</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-AF21-65088532598A</Name>
+	<Description>Independent Sub-Process</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-05-24T11:47:20.438</CreationDate>
+	<Notes/>
+	<Text>Independent Sub-Process</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-AF21-65088531D98A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-8556-6FC3D2B3D998">
+	<DocumentID>98FA9BBD-851C-A1EC-8556-6FC3D2B39998</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-8556-6FC3D2B39998</Name>
+	<Description>Send Event Process</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-09-14T12:49:12.426</CreationDate>
+	<Notes/>
+	<Text>Send Event Process</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-8556-6FC3D2B31998"
+		/>
+	</TextIdentifier>
+</TranslatedText>

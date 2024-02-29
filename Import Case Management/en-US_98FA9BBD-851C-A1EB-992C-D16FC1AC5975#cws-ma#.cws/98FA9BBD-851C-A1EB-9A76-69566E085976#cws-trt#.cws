@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9A76-69566E089976">
+	<DocumentID>98FA9BBD-851C-A1EB-9A76-69566E085976</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9A76-69566E085976</Name>
+	<Description>Update Failed Count-1</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-08T07:00:40.618</CreationDate>
+	<Notes/>
+	<Text>Update Failed Count-1</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ACD975"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9A76-69566E07D976"
+		/>
+	</TextIdentifier>
+</TranslatedText>

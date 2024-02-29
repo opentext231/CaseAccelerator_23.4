@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0050560B-AB67-A1EB-8297-49F63A07D113">
+	<DocumentID>0050560B-AB67-A1EB-8297-49F63A079113</DocumentID>
+	<Name>0050560B-AB67-A1EB-8297-49F63A079113</Name>
+	<Description>Case type_12</Description>
+	<CreatedBy>Joe</CreatedBy>
+	<CreationDate>2020-10-09T18:30:45.474</CreationDate>
+	<Notes/>
+	<DefaultText>Case type_12</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0050560B-AB67-A1EB-8297-49F63A081113"
+		/>
+	</Translations>
+</TextIdentifier>

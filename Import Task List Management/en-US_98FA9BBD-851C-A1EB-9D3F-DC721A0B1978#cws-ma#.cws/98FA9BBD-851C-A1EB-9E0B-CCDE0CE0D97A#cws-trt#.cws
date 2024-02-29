@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9E0B-CCDE0CE1197A">
+	<DocumentID>98FA9BBD-851C-A1EB-9E0B-CCDE0CE0D97A</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9E0B-CCDE0CE0D97A</Name>
+	<Description>ImportTask</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-26T13:09:42.879</CreationDate>
+	<Notes/>
+	<Text>ImportTask</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-9D3F-DC721A0B9978"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9E0B-CCDE0CE0597A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-A87B-DBFD70CD5C02">
+	<DocumentID>00505601-718D-A1EB-A87B-DBFD70CD1C02</DocumentID>
+	<Name>00505601-718D-A1EB-A87B-DBFD70CD1C02</Name>
+	<Description>Do you want to select a task list?</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-20T17:20:03.09</CreationDate>
+	<Notes/>
+	<Text>Do you want to select a task list?</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-A87B-DBFD70CC9C02"
+		/>
+	</TextIdentifier>
+</TranslatedText>

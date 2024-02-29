@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9657-541729519974">
+	<DocumentID>98FA9BBD-851C-A1EB-9657-541729515974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9657-541729515974</Name>
+	<Description>LicenseApprovalProcess</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-18T07:20:37.752</CreationDate>
+	<Notes/>
+	<DefaultText>LicenseApprovalProcess</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-9657-54172951D974"
+		/>
+	</Translations>
+</TextIdentifier>

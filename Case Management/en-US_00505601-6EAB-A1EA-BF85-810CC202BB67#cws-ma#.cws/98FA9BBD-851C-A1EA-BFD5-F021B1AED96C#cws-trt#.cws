@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFD5-F021B1AF196C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFD5-F021B1AED96C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFD5-F021B1AED96C</Name>
+	<Description>SLADefinitions</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T17:54:05.553</CreationDate>
+	<Notes/>
+	<Text>SLADefinitions</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFD5-F021B1AE596C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

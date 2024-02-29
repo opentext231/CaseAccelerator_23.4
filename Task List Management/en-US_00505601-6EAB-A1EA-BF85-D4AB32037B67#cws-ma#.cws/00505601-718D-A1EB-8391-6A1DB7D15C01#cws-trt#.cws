@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-8391-6A1DB7D19C01">
+	<DocumentID>00505601-718D-A1EB-8391-6A1DB7D15C01</DocumentID>
+	<Name>00505601-718D-A1EB-8391-6A1DB7D15C01</Name>
+	<Description>Update UI Layout</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-10-14T17:51:14.826</CreationDate>
+	<Notes/>
+	<Text>Update UI Layout</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3203FB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-8391-6A1DB7D0DC01"
+		/>
+	</TextIdentifier>
+</TranslatedText>

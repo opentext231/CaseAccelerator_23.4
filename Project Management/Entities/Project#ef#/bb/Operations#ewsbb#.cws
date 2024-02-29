@@ -1,0 +1,132 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-59F6F5CBD9A8">
+	<DocumentID>98FA9BBD-851C-A1EC-A9A6-59F6F5CB99A8</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-18T08:57:58.753</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-59F6F5CB19A8">
+			<DocumentID>98FA9BBD-851C-A1EC-A9A6-59F6F5CAD9A8</DocumentID>
+			<Name>CreateProject</Name>
+			<Description>Create Project</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-18T08:57:58.753</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E0DD9A7"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-59F6F5C999A8">
+			<DocumentID>98FA9BBD-851C-A1EC-A9A6-59F6F5C959A8</DocumentID>
+			<Name>DeleteProject</Name>
+			<Description>Delete Project</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-18T08:57:58.753</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E0DD9A7"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E0DD9A7"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-59F6F5CA99A8">
+			<DocumentID>98FA9BBD-851C-A1EC-A9A6-59F6F5CA59A8</DocumentID>
+			<Name>ReadProject</Name>
+			<Description>Read Project</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-18T08:57:58.752</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E0DD9A7"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-59F6F5C919A8">
+			<DocumentID>98FA9BBD-851C-A1EC-A9A6-59F6F5C8D9A8</DocumentID>
+			<Name>SetScheduler</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-18T08:57:58.752</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E0DD9A7"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A487-0AAE12B4D9A7"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-59F6F5C899A8">
+			<DocumentID>98FA9BBD-851C-A1EC-A9A6-59F6F5C859A8</DocumentID>
+			<Name>ClearScheduler</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-18T08:57:58.751</CreationDate>
+			<Notes/>
+			<OperationType>ClearOne</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E0DD9A7"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A487-0AAE12B4D9A7"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-59F6F5CA19A8">
+			<DocumentID>98FA9BBD-851C-A1EC-A9A6-59F6F5C9D9A8</DocumentID>
+			<Name>UpdateProject</Name>
+			<Description>Update Project</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-18T08:57:58.75</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E0DD9A7"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

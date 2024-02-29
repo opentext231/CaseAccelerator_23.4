@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0050560B-AB67-A1EB-8263-D04CD4035113">
+	<DocumentID>0050560B-AB67-A1EB-8263-D04CD4031113</DocumentID>
+	<Name>0050560B-AB67-A1EB-8263-D04CD4031113</Name>
+	<Description>Phone number 1</Description>
+	<CreatedBy>Joe</CreatedBy>
+	<CreationDate>2020-10-08T18:27:28.591</CreationDate>
+	<Notes/>
+	<DefaultText>Phone number 1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31F97B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0050560B-AB67-A1EB-8263-D04CD4039113"
+		/>
+	</Translations>
+</TextIdentifier>

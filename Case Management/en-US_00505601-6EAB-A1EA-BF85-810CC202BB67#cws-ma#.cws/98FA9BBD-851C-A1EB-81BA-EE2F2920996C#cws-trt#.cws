@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-81BA-EE2F2920D96C">
+	<DocumentID>98FA9BBD-851C-A1EB-81BA-EE2F2920996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-81BA-EE2F2920996C</Name>
+	<Description>SetContactProcess</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-05T10:47:51.744</CreationDate>
+	<Notes/>
+	<Text>SetContactProcess</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-81BA-EE2F2920196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

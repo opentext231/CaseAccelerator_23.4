@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9950-AE24FF6A9975">
+	<DocumentID>98FA9BBD-851C-A1EB-9950-AE24FF6A5975</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9950-AE24FF6A5975</Name>
+	<Description>Batch Record Creation</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-02T10:45:11.028</CreationDate>
+	<Notes/>
+	<DefaultText>Batch Record Creation</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ADD975"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-9950-AE24FF6AD975"
+		/>
+	</Translations>
+</TextIdentifier>

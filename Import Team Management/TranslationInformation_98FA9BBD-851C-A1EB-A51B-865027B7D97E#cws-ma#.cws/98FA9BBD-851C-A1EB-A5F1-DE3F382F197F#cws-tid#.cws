@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A5F1-DE3F382F597F">
+	<DocumentID>98FA9BBD-851C-A1EB-A5F1-DE3F382F197F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A5F1-DE3F382F197F</Name>
+	<Description>ImportCountry</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-07T17:34:18.959</CreationDate>
+	<Notes/>
+	<DefaultText>ImportCountry</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027B8597E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-A5F1-DE3F382F997F"
+		/>
+	</Translations>
+</TextIdentifier>

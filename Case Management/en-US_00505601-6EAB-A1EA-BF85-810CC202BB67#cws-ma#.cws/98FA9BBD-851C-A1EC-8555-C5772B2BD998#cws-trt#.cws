@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-8555-C5772B2C1998">
+	<DocumentID>98FA9BBD-851C-A1EC-8555-C5772B2BD998</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-8555-C5772B2BD998</Name>
+	<Description>Close Case?</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-09-14T12:27:47.692</CreationDate>
+	<Notes/>
+	<Text>Close Case?</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-8555-C5772B2B5998"
+		/>
+	</TextIdentifier>
+</TranslatedText>

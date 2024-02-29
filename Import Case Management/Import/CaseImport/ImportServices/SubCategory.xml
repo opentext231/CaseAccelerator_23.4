@@ -1,0 +1,16 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportSubCategory xmlns="http://schemas.cordys.com/default">
+      <SubCategories>
+        <SubCategory>
+          <Name>PARAMETER</Name>
+          <Description>PARAMETER</Description>
+          <Status>PARAMETER</Status>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <Category>PARAMETER</Category>
+        </SubCategory>
+      </SubCategories>
+    </ImportSubCategory>
+  </SOAP:Body>
+</SOAP:Envelope>

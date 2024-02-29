@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-AFED-5D8CB43299AA">
+	<DocumentID>98FA9BBD-851C-A1EC-AFED-5D8CB43259AA</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-AFED-5D8CB43259AA</Name>
+	<Description>DummyProcess3</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-04-19T07:52:43.157</CreationDate>
+	<Notes/>
+	<Text>DummyProcess3</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E1D19A7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-AFED-5D8CB431D9AA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

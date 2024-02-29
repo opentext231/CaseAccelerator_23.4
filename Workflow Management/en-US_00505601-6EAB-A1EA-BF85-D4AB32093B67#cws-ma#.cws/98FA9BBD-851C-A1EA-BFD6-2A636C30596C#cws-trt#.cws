@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFD6-2A636C30996C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFD6-2A636C30596C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFD6-2A636C30596C</Name>
+	<Description>Active Workflows</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T18:02:00.802</CreationDate>
+	<Notes/>
+	<Text>Active Workflows</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFD6-2A636C2FD96C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

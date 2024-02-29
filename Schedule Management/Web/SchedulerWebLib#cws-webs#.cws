@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A909-1CBE41A399A7">
+	<DocumentID>98FA9BBD-851C-A1EC-A909-1CBE41A359A7</DocumentID>
+	<Name>SchedulerWebLib</Name>
+	<Description>SchedulerWebLib</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-15T06:12:12.474</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EC-A0C9-40EA7BCAD9A4"
+			path="Schedule Management/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

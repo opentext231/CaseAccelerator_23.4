@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-992D-520BEFD91975">
+	<DocumentID>98FA9BBD-851C-A1EB-992D-520BEFD8D975</DocumentID>
+	<Name>CaseImportWebLib</Name>
+	<Description>CaseImportWebLib</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-01T17:46:51.718</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1A99975"
+			path="Import Case Management/Import"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

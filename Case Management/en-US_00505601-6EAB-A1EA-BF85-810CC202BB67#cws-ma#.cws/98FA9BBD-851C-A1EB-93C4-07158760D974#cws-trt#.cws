@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-93C4-071587611974">
+	<DocumentID>98FA9BBD-851C-A1EB-93C4-07158760D974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-93C4-07158760D974</Name>
+	<Description>CaseBusinessCalDueDate</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-05T04:47:41.714</CreationDate>
+	<Notes/>
+	<Text>CaseBusinessCalDueDate</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-93C4-071587605974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-9AC3-496EAB029C02">
+	<DocumentID>00505601-718D-A1EB-9AC3-496EAB025C02</DocumentID>
+	<Name>00505601-718D-A1EB-9AC3-496EAB025C02</Name>
+	<Description>Enable business calendar_1</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-09T20:49:45.568</CreationDate>
+	<Notes/>
+	<DefaultText>Enable business calendar_1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-9AC3-496EAB02DC02"
+		/>
+	</Translations>
+</TextIdentifier>

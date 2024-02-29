@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-95D7-54D2F0355974">
+	<DocumentID>98FA9BBD-851C-A1EB-95D7-54D2F0351974</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-15T18:13:30.585</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-95D7-54D2F0349974">
+			<DocumentID>98FA9BBD-851C-A1EB-95D7-54D2F0345974</DocumentID>
+			<Name>CreateProcessFlow</Name>
+			<Description>Create ProcessFlow</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-15T18:13:30.585</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-10BF8181D974"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-95D7-54D2F0331974">
+			<DocumentID>98FA9BBD-851C-A1EB-95D7-54D2F032D974</DocumentID>
+			<Name>DeleteProcessFlow</Name>
+			<Description>Delete ProcessFlow</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-15T18:13:30.585</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-10BF8181D974"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EB-94BD-10BF8181D974"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-95D7-54D2F0341974">
+			<DocumentID>98FA9BBD-851C-A1EB-95D7-54D2F033D974</DocumentID>
+			<Name>ReadProcessFlow</Name>
+			<Description>Read ProcessFlow</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-15T18:13:30.585</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-10BF8181D974"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-95D7-54D2F0339974">
+			<DocumentID>98FA9BBD-851C-A1EB-95D7-54D2F0335974</DocumentID>
+			<Name>UpdateProcessFlow</Name>
+			<Description>Update ProcessFlow</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-15T18:13:30.585</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-10BF8181D974"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

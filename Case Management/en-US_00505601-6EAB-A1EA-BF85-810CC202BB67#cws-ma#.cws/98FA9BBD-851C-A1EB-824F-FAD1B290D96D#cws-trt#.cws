@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-824F-FAD1B291196D">
+	<DocumentID>98FA9BBD-851C-A1EB-824F-FAD1B290D96D</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-824F-FAD1B290D96D</Name>
+	<Description>Business Phone</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-08T08:46:36.799</CreationDate>
+	<Notes/>
+	<Text>Business Phone</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-824F-FAD1B290596D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

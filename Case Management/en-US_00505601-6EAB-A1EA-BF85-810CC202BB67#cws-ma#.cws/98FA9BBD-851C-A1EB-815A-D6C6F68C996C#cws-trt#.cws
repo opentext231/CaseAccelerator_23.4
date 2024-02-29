@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-815A-D6C6F68CD96C">
+	<DocumentID>98FA9BBD-851C-A1EB-815A-D6C6F68C996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-815A-D6C6F68C996C</Name>
+	<Description>Release Task List Tasks</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-03T11:27:57.01</CreationDate>
+	<Notes/>
+	<Text>Release Task List Tasks</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-815A-D6C6F68C196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

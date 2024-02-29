@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8181-ABF22A1D596C">
+	<DocumentID>98FA9BBD-851C-A1EB-8181-ABF22A1D196C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8181-ABF22A1D196C</Name>
+	<Description>Initiate Workflow Task</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-04T06:04:30.804</CreationDate>
+	<Notes/>
+	<Text>Initiate Workflow Task</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8181-ABF22A1C996C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

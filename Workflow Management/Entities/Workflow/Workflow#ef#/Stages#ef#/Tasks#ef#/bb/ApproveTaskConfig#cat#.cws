@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90EE-4AEF735C99A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90EE-4AEF735C59A1</DocumentID>
+	<Name>ApproveTaskConfig</Name>
+	<Description>ApproveTaskConfig</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-12T13:24:58.151</CreationDate>
+	<Notes/>
+	<referenceCount>3</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC2-9FA99F62596C"
+		/>
+	</BuildingBlock>
+</Category>

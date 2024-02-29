@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-81B6-CAB0DA40596C">
+	<DocumentID>98FA9BBD-851C-A1EB-81B6-CAB0DA40196C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-81B6-CAB0DA40196C</Name>
+	<Description>My Case Inbox</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-05T07:33:38.487</CreationDate>
+	<Notes/>
+	<DefaultText>My Case Inbox</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-81B6-CAB0DA40996C"
+		/>
+	</Translations>
+</TextIdentifier>

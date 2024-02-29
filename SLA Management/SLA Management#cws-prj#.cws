@@ -1,0 +1,104 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="00505601-6EAB-A1EA-BF85-D4AB32013B67">
+	<DocumentID>00505601-6EAB-A1EA-BF85-D4AB3200FB67</DocumentID>
+	<Name>SLA Management</Name>
+	<Description>SLA Management</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-24T03:41:05.922</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="00505601-6EAB-A1EA-BF85-D4AB31FFFB67">
+			<DocumentID>00505601-6EAB-A1EA-BF85-D4AB31FFBB67</DocumentID>
+			<Name>Opentext SLA Management</Name>
+			<Description>Opentext SLA Management</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2020-09-24T03:41:05.922</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>Opentext SLA Management</ISVPackageFileName>
+			<ISVPackageOwner>Opentext</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>SLA Management</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB32007B67"
+			path="SLA Management"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="00505601-6EAB-A1EA-BF85-D4AB31FF7B67">
+			<DocumentID>00505601-6EAB-A1EA-BF85-D4AB31FF3B67</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2020-09-24T03:41:05.922</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00505601-6EAB-A1EA-BF85-D4AB31FE7B67">
+					<DocumentID>00505601-6EAB-A1EA-BF85-D4AB31FE3B67</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2020-09-24T03:41:05.922</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="00505601-6EAB-A1EA-BF85-D4AB31FDBB67"
+							path="SLA Management/en-US_00505601-6EAB-A1EA-BF85-D4AB31FDBB67"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00505601-6EAB-A1EA-BF85-D4AB31FF3B67"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="00505601-6EAB-A1EA-BF85-D4AB31FEBB67"
+					path="SLA Management/TranslationInformation_00505601-6EAB-A1EA-BF85-D4AB31FEBB67"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

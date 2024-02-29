@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFFA-DB6F439F196C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFFA-DB6F439ED96C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFFA-DB6F439ED96C</Name>
+	<Description>Last synchronization error</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-26T11:32:00.804</CreationDate>
+	<Notes/>
+	<Text>Last synchronization error</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFFA-DB6F439E596C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

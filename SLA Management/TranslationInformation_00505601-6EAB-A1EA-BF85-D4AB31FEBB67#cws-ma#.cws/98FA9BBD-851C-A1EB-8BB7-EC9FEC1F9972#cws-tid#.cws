@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8BB7-EC9FEC1FD972">
+	<DocumentID>98FA9BBD-851C-A1EB-8BB7-EC9FEC1F9972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8BB7-EC9FEC1F9972</Name>
+	<Description>EmailBeforeSLA</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-25T06:00:11.585</CreationDate>
+	<Notes/>
+	<DefaultText>EmailBeforeSLA</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FF3B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-8BB7-EC9FEC201972"
+		/>
+	</Translations>
+</TextIdentifier>

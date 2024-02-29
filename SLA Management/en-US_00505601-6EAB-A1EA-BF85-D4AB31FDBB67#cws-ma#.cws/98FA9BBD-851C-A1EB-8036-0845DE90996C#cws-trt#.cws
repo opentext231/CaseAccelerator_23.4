@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8036-0845DE90D96C">
+	<DocumentID>98FA9BBD-851C-A1EB-8036-0845DE90996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8036-0845DE90996C</Name>
+	<Description>Send Reminder Before SLA</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-27T15:43:58.988</CreationDate>
+	<Notes/>
+	<Text>Send Reminder Before SLA</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8036-0845DE90196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

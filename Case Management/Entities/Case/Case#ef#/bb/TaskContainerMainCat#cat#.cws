@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-81AE-28A37E70196C">
+	<DocumentID>98FA9BBD-851C-A1EB-81AE-28A37E6FD96C</DocumentID>
+	<Name>TaskContainerMainCat</Name>
+	<Description>TaskContainerMainCat</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-05T03:19:41.64</CreationDate>
+	<Notes/>
+	<referenceCount>10</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BF8F-49E788CED96C"
+		/>
+	</BuildingBlock>
+</Category>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9A86-4278CB8AD976">
+	<DocumentID>98FA9BBD-851C-A1EB-9A86-4278CB8A9976</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9A86-4278CB8A9976</Name>
+	<Description>Get Team</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-08T14:23:47.629</CreationDate>
+	<Notes/>
+	<DefaultText>Get Team</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ADD975"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-9A86-4278CB8B1976"
+		/>
+	</Translations>
+</TextIdentifier>

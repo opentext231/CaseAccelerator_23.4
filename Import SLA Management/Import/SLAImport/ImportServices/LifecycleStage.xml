@@ -1,0 +1,13 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportLifecycleStage xmlns="http://schemas.cordys.com/default">
+      <LifecycleStages>
+        <LifecycleStage>
+          <Name>PARAMETER</Name>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+        </LifecycleStage>
+      </LifecycleStages>
+    </ImportLifecycleStage>
+  </SOAP:Body>
+</SOAP:Envelope>

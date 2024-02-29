@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFA5-060C4AA6596C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFA5-060C4AA6196C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFA5-060C4AA6196C</Name>
+	<Description>Serial</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-24T18:32:12.748</CreationDate>
+	<Notes/>
+	<DefaultText>Serial</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3204FB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFA5-060C4AA6996C"
+		/>
+	</Translations>
+</TextIdentifier>

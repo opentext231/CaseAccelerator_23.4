@@ -1,0 +1,70 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8249-541CF44B196D">
+	<DocumentID>98FA9BBD-851C-A1EB-8249-541CF44AD96D</DocumentID>
+	<Name>CaseStatus</Name>
+	<Description>CaseStatus</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-08T05:21:55.901</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hi {item.CaseRequester.Properties.UserName},&lt;br /&gt;
+&lt;br /&gt;
+You have a case assigned. The case status is:&lt;br /&gt;
+&amp;nbsp;
+&lt;table border=&quot;2&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot; style=&quot;width:500px&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Case ID&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;{item.Properties.CaseID}&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Subject&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;{item.Properties.Subject}&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Current Status&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;{item.Lifecycle.CurrentState}&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Thanks! Have a great day!&lt;br /&gt;
+&lt;br /&gt;
+Case Management Team</Body>
+	<CC>{item.CaseRequester.Properties.EMail}</CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>{item.Properties.CaseID}:  {item.Properties.Subject} :  {item.Lifecycle.CurrentState}</Subject>
+	<To>{item.CaseOwner.Properties.EMail}</To>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BF8F-49E788CE596C"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-827F-7AB59009996D">
+			<DocumentID>98FA9BBD-851C-A1EB-827F-7AB59009596D</DocumentID>
+			<Name>98FA9BBD-851C-A1EB-827F-7AB59009596D</Name>
+			<Description>98FA9BBD-851C-A1EB-827F-7AB59009596D</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-09T09:40:06.197</CreationDate>
+			<Notes/>
+			<DeveloperText>CasStatus</DeveloperText>
+			<Identifier>
+				<uri
+					id="98FA9BBD-851C-A1EB-827F-7AB59009D96D"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

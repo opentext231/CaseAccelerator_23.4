@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-F9770059D97E">
+	<DocumentID>98FA9BBD-851C-A1EB-A51B-F9770059997E</DocumentID>
+	<Name>SLAImportWebLib</Name>
+	<Description>SLAImportWebLib</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-03T11:34:14.896</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027AF997E"
+			path="Import SLA Management/Import"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-94BC-99390F05D974">
+	<DocumentID>98FA9BBD-851C-A1EB-94BC-99390F059974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-94BC-99390F059974</Name>
+	<Description>TestBPM</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-10T03:22:42.29</CreationDate>
+	<Notes/>
+	<Text>TestBPM</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-94BC-99390F051974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

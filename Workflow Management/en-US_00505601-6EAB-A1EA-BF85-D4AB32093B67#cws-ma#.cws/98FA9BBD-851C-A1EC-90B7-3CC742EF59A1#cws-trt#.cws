@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90B7-3CC742EF99A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90B7-3CC742EF59A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90B7-3CC742EF59A1</Name>
+	<Description>Set Business Identifier-c</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-11T10:52:14.275</CreationDate>
+	<Notes/>
+	<Text>Set Business Identifier-c</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-90B7-3CC742EED9A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

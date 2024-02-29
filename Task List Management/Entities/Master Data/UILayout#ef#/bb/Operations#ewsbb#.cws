@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BF0196C">
+	<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BEFD96C</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-01T01:58:00.173</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEF596C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BEF196C</DocumentID>
+			<Name>CreateUILayout</Name>
+			<Description>Create UILayout</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:00.173</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-6CA1317CD96C"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEDD96C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BED996C</DocumentID>
+			<Name>DeleteUILayout</Name>
+			<Description>Delete UILayout</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:00.173</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-6CA1317CD96C"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFB5-6CA1317CD96C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEED96C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BEE996C</DocumentID>
+			<Name>ReadUILayout</Name>
+			<Description>Read UILayout</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:00.174</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-6CA1317CD96C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEE596C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BEE196C</DocumentID>
+			<Name>UpdateUILayout</Name>
+			<Description>Update UILayout</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:00.174</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-6CA1317CD96C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

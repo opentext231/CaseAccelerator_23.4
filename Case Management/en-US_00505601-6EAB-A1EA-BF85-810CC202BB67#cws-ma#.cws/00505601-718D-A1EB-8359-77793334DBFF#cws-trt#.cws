@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-8359-777933351BFF">
+	<DocumentID>00505601-718D-A1EB-8359-77793334DBFF</DocumentID>
+	<Name>00505601-718D-A1EB-8359-77793334DBFF</Name>
+	<Description>Case worker old</Description>
+	<CreatedBy>john</CreatedBy>
+	<CreationDate>2020-10-13T15:20:51.789</CreationDate>
+	<Notes/>
+	<Text>Case worker old</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-8359-777933345BFF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

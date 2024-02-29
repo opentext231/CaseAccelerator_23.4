@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9A71-E1062CCE9976">
+	<DocumentID>98FA9BBD-851C-A1EB-9A71-E1062CCE5976</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9A71-E1062CCE5976</Name>
+	<Description>Not Found</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-08T04:40:01.121</CreationDate>
+	<Notes/>
+	<Text>Not Found</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ACD975"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9A71-E1062CCDD976"
+		/>
+	</TextIdentifier>
+</TranslatedText>

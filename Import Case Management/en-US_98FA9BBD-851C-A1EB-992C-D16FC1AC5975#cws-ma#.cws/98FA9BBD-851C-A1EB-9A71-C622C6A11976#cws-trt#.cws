@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9A71-C622C6A15976">
+	<DocumentID>98FA9BBD-851C-A1EB-9A71-C622C6A11976</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9A71-C622C6A11976</Name>
+	<Description>Create Sub Category</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-08T04:37:32.392</CreationDate>
+	<Notes/>
+	<Text>Create Sub Category</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ACD975"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9A71-C622C6A09976"
+		/>
+	</TextIdentifier>
+</TranslatedText>

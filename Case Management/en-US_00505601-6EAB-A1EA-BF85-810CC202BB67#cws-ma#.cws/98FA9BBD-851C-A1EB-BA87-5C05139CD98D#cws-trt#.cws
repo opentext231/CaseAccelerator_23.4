@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BA87-5C05139D198D">
+	<DocumentID>98FA9BBD-851C-A1EB-BA87-5C05139CD98D</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BA87-5C05139CD98D</Name>
+	<Description>Inform to Customer - Approved</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-07-21T12:17:41.894</CreationDate>
+	<Notes/>
+	<Text>Inform to Customer - Approved</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-BA87-5C05139C598D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

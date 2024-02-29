@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0050560B-AB67-A1EB-A742-9378A0B49115">
+	<DocumentID>0050560B-AB67-A1EB-A742-9378A0B45115</DocumentID>
+	<Name>0050560B-AB67-A1EB-A742-9378A0B45115</Name>
+	<Description>DeleteDocPreviewFileFormFS</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2021-04-14T10:37:27.093</CreationDate>
+	<Notes/>
+	<Text>DeleteDocPreviewFileFormFS</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0050560B-AB67-A1EB-A742-9378A0B3D115"
+		/>
+	</TextIdentifier>
+</TranslatedText>

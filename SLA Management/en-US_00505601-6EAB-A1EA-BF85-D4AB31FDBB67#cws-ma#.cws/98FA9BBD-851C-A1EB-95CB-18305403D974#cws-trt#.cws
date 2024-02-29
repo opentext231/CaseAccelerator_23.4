@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-95CB-183054041974">
+	<DocumentID>98FA9BBD-851C-A1EB-95CB-18305403D974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-95CB-18305403D974</Name>
+	<Description>AddEscalations</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-15T12:23:26.958</CreationDate>
+	<Notes/>
+	<Text>AddEscalations</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-95CB-183054035974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

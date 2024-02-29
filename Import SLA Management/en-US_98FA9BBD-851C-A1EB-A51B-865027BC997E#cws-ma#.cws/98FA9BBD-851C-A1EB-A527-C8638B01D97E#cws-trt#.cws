@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A527-C8638B02197E">
+	<DocumentID>98FA9BBD-851C-A1EB-A527-C8638B01D97E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A527-C8638B01D97E</Name>
+	<Description>CreateSLA_Priority</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-03T17:10:20.608</CreationDate>
+	<Notes/>
+	<Text>CreateSLA_Priority</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027BD197E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A527-C8638B01597E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

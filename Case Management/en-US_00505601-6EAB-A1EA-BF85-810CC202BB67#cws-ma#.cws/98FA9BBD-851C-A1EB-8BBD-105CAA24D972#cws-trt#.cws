@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8BBD-105CAA251972">
+	<DocumentID>98FA9BBD-851C-A1EB-8BBD-105CAA24D972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8BBD-105CAA24D972</Name>
+	<Description>Reminder</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-25T08:02:26.266</CreationDate>
+	<Notes/>
+	<Text>Reminder</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8BBD-105CAA245972"
+		/>
+	</TextIdentifier>
+</TranslatedText>

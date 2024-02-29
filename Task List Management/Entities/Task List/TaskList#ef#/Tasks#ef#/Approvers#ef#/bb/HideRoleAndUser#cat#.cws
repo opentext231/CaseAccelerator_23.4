@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFB5-F79BEFC2996C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFB5-F79BEFC2596C</DocumentID>
+	<Name>HideRoleAndUser</Name>
+	<Description>HideRoleAndUser</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T02:42:29.311</CreationDate>
+	<Notes/>
+	<referenceCount>2</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFB5-E5B03DFB196C"
+		/>
+	</BuildingBlock>
+</Category>

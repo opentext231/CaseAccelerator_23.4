@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-9BED-34CB124CDC02">
+	<DocumentID>00505601-718D-A1EB-9BED-34CB124C9C02</DocumentID>
+	<Name>00505601-718D-A1EB-9BED-34CB124C9C02</Name>
+	<Description>Assignee type_2</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-15T17:50:47.094</CreationDate>
+	<Notes/>
+	<DefaultText>Assignee type_2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3204FB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-9BED-34CB124D1C02"
+		/>
+	</Translations>
+</TextIdentifier>

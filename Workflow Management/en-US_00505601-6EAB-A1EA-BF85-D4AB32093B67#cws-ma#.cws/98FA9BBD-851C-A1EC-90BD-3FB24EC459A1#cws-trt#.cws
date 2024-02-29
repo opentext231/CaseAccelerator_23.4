@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90BD-3FB24EC499A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90BD-3FB24EC459A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90BD-3FB24EC459A1</Name>
+	<Description>Read Task-C</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-11T13:46:33.954</CreationDate>
+	<Notes/>
+	<Text>Read Task-C</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-90BD-3FB24EC3D9A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

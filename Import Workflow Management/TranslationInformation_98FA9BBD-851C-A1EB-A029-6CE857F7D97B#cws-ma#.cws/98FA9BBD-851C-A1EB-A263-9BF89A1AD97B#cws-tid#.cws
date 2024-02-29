@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A263-9BF89A1B197B">
+	<DocumentID>98FA9BBD-851C-A1EB-A263-9BF89A1AD97B</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A263-9BF89A1AD97B</Name>
+	<Description>Create Process Flow</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-20T15:11:14.965</CreationDate>
+	<Notes/>
+	<DefaultText>Create Process Flow</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-A029-6CE857F8597B"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-A263-9BF89A1B597B"
+		/>
+	</Translations>
+</TextIdentifier>

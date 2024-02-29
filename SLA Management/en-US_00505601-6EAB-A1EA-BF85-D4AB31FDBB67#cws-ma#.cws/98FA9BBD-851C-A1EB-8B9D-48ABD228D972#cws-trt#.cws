@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B9D-48ABD2291972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B9D-48ABD228D972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8B9D-48ABD228D972</Name>
+	<Description>Escalation</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-24T16:54:59.642</CreationDate>
+	<Notes/>
+	<Text>Escalation</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8B9D-7101E9171972"
+		/>
+	</TextIdentifier>
+</TranslatedText>

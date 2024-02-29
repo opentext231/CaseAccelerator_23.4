@@ -1,0 +1,37 @@
+
+<RoleRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8026-4A966010196C">
+	<DocumentID>98FA9BBD-851C-A1EB-8026-4A96600FD96C</DocumentID>
+	<Name>Entity Runtime Developer in OpenText Entity Runtime</Name>
+	<Description>Entity Runtime Developer</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-09-27T08:14:04.431</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<CommonName>Entity Runtime Developer</CommonName>
+	<DistinguishedName>cn=Entity Runtime Developer,cn=OpenText Entity Runtime,cn=cordys,cn=defaultInst,o=opentext.net</DistinguishedName>
+	<ISVPName></ISVPName>
+	<type>Internal</type>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-8026-4A96600F996C">
+			<DocumentID>98FA9BBD-851C-A1EB-8026-4A96600F596C</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-09-27T08:14:04.432</CreationDate>
+			<Notes/>
+			<ArtifactID>4D9A2EE6-FC3F-4CD4-AA6B-F6DB16EC23C1</ArtifactID>
+			<CAPID>8eded4c8-2607-4029-80ce-778ad9cd8c98</CAPID>
+			<CAPName>OpenText Entity Runtime</CAPName>
+			<CAPVersion>ver20.4build9</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleRuntime>

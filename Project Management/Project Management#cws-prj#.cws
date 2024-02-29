@@ -1,0 +1,104 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A485-A2D24E2019A7">
+	<DocumentID>98FA9BBD-851C-A1EC-A485-A2D24E1FD9A7</DocumentID>
+	<Name>Project Management</Name>
+	<Description>Project Management</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-02-20T06:41:59.457</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A485-A2D24E1ED9A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A485-A2D24E1E99A7</DocumentID>
+			<Name>Opentext Project Management</Name>
+			<Description>Opentext Project Management</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-02-20T06:41:59.456</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>Opentext Project Management</ISVPackageFileName>
+			<ISVPackageOwner>Opentext</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Project Management</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E1F59A7"
+			path="Project Management"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A485-A2D24E1E59A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A485-A2D24E1E19A7</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-02-20T06:41:59.457</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="98FA9BBD-851C-A1EC-A485-A2D24E1D59A7">
+					<DocumentID>98FA9BBD-851C-A1EC-A485-A2D24E1D19A7</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>Joe Lewis</CreatedBy>
+					<CreationDate>2022-02-20T06:41:59.457</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="98FA9BBD-851C-A1EC-A485-A2D24E1C99A7"
+							path="Project Management/en-US_98FA9BBD-851C-A1EC-A485-A2D24E1C99A7"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="98FA9BBD-851C-A1EC-A485-A2D24E1E19A7"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E1D19A7"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="98FA9BBD-851C-A1EC-A485-A2D24E1D99A7"
+					path="Project Management/TranslationInformation_98FA9BBD-851C-A1EC-A485-A2D24E1D99A7"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

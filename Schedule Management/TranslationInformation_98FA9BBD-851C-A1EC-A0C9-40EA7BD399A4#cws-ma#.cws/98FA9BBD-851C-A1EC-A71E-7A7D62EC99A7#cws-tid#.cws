@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-7A7D62ECD9A7">
+	<DocumentID>98FA9BBD-851C-A1EC-A71E-7A7D62EC99A7</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-A71E-7A7D62EC99A7</Name>
+	<Description>Update Scheduler-2</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-05T11:47:25.177</CreationDate>
+	<Notes/>
+	<DefaultText>Update Scheduler-2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EC-A0C9-40EA7BD419A4"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-A71E-7A7D62ED19A7"
+		/>
+	</Translations>
+</TextIdentifier>

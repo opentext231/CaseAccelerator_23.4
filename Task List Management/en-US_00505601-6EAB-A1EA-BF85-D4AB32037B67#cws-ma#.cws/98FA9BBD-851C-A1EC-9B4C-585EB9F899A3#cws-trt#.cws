@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-9B4C-585EB9F8D9A3">
+	<DocumentID>98FA9BBD-851C-A1EC-9B4C-585EB9F899A3</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-9B4C-585EB9F899A3</Name>
+	<Description>CloneTaskList</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-01-04T07:43:36.837</CreationDate>
+	<Notes/>
+	<Text>CloneTaskList</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3203FB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-9B4C-585EB9F819A3"
+		/>
+	</TextIdentifier>
+</TranslatedText>

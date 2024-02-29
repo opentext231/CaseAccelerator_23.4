@@ -1,0 +1,20 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportStages xmlns="http://schemas.cordys.com/default">
+      <Stage>
+        <Stages>
+          <Workflow>PARAMETER</Workflow>
+          <Description>PARAMETER</Description>
+          <Step>PARAMETER</Step>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <TaskList>PARAMETER</TaskList>
+          <StageName>PARAMETER</StageName>
+          <LifeCycleStage>PARAMETER</LifeCycleStage>
+          <AddTasks>PARAMETER</AddTasks>
+          <AddProcessFlows>PARAMETER</AddProcessFlows>
+        </Stages>
+      </Stage>
+    </ImportStages>
+  </SOAP:Body>
+</SOAP:Envelope>

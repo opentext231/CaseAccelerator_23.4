@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFC3-D1D80E1DD96C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFC3-D1D80E1D996C</DocumentID>
+	<Name>WorkflowWebLib</Name>
+	<Description>WorkflowWebLib</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T09:17:39.145</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="00505601-6EAB-A1EA-BF86-01969EC1BB67"
+			path="Workflow Management/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

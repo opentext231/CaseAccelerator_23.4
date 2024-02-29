@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BCD5-DEC73BECD98E">
+	<DocumentID>98FA9BBD-851C-A1EB-BCD5-DEC73BEC998E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BCD5-DEC73BEC998E</Name>
+	<Description>UpdateWorkflowTaskStatusBackup</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-08-02T06:04:31.128</CreationDate>
+	<Notes/>
+	<DefaultText>UpdateWorkflowTaskStatusBackup</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-BCD5-DEC73BED198E"
+		/>
+	</Translations>
+</TextIdentifier>

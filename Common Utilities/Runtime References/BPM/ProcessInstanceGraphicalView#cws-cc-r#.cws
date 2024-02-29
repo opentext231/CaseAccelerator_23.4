@@ -1,0 +1,48 @@
+
+<CompositeControlRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.xforms.CompositeControlRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-95E8-82798D56D974">
+	<DocumentID>98FA9BBD-851C-A1EB-95E8-82798D569974</DocumentID>
+	<Name>ProcessInstanceGraphicalView</Name>
+	<Description>Process Instance Graphical View</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-16T02:28:29.808</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<ControlSchema/>
+	<ISVPName></ISVPName>
+	<Icon></Icon>
+	<URL></URL>
+	<compositeControlType>control</compositeControlType>
+	<customParams/>
+	<designLibraryURL></designLibraryURL>
+	<extensionClass>bpm.controls.pim.designtime.ProcessInstanceGraphicalView</extensionClass>
+	<key>/Cordys/WCP/Controls/runtime/bpm/pim/ProcessInstanceGraphicalView</key>
+	<markUp></markUp>
+	<propertySheetURL></propertySheetURL>
+	<runtimeLibraryURL></runtimeLibraryURL>
+	<DesignLibrary/>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-95E8-82798D565974">
+			<DocumentID>98FA9BBD-851C-A1EB-95E8-82798D561974</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-16T02:28:29.809</CreationDate>
+			<Notes/>
+			<ArtifactID>005056C0-0008-11DF-F817-037EFEBC56E5</ArtifactID>
+			<CAPID>005056c0-0008-71df-984b-63db9b039007</CAPID>
+			<CAPName>Cordys Business Process Engine</CAPName>
+			<CAPVersion>ver20.4build9</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<PropertySheet/>
+	<RuntimeLibrary/>
+	<SourceXForm/>
+	<inputSchema/>
+	<outputSchema/>
+</CompositeControlRuntime>

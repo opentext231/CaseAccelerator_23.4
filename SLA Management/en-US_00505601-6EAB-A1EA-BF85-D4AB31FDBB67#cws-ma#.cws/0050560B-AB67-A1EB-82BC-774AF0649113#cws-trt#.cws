@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0050560B-AB67-A1EB-82BC-774AF064D113">
+	<DocumentID>0050560B-AB67-A1EB-82BC-774AF0649113</DocumentID>
+	<Name>0050560B-AB67-A1EB-82BC-774AF0649113</Name>
+	<Description>Lifecycle stages</Description>
+	<CreatedBy>Joe</CreatedBy>
+	<CreationDate>2020-10-10T12:14:11.116</CreationDate>
+	<Notes/>
+	<Text>Lifecycle stages</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0050560B-AB67-A1EB-82BC-774AF0641113"
+		/>
+	</TextIdentifier>
+</TranslatedText>

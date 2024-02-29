@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9938-3ADA14225975">
+	<DocumentID>98FA9BBD-851C-A1EB-9938-3ADA14221975</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9938-3ADA14221975</Name>
+	<Description>ImportResolution</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-01T22:58:06.39</CreationDate>
+	<Notes/>
+	<DefaultText>ImportResolution</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ADD975"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-9938-3ADA14229975"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-93C3-C55766059974">
+	<DocumentID>98FA9BBD-851C-A1EB-93C3-C55766055974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-93C3-C55766055974</Name>
+	<Description>Business Calendar Due Date</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-05T04:33:54.042</CreationDate>
+	<Notes/>
+	<Text>Business Calendar Due Date</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-93C3-C5576604D974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-9830-FF6C30D69C02">
+	<DocumentID>00505601-718D-A1EB-9830-FF6C30D65C02</DocumentID>
+	<Name>00505601-718D-A1EB-9830-FF6C30D65C02</Name>
+	<Description>Add escalations_1</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-27T17:26:16.593</CreationDate>
+	<Notes/>
+	<DefaultText>Add escalations_1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FF3B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-9830-FF6C30D6DC02"
+		/>
+	</Translations>
+</TextIdentifier>

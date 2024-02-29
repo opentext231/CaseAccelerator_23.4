@@ -1,0 +1,52 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-5D468936D972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B5F-5D4689369972</DocumentID>
+	<Name>EsclationMail</Name>
+	<Description>EsclationMail</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-23T11:22:35.211</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hi&amp;nbsp;{item.Properties.AssigneeValue},&lt;br /&gt;
+&lt;br /&gt;
+{item.Properties.RefCaseID} is waiting for resolve&lt;br /&gt;
+&lt;br /&gt;
+Thanks,&lt;br /&gt;
+Case Management</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>{item.Properties.RefCaseID} is waiting for resolve</Subject>
+	<To>{item.Properties.AssigneeEMailID}</To>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC6-A4BC0F22D96C"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-5D4689345972">
+			<DocumentID>98FA9BBD-851C-A1EB-8B5F-5D4689341972</DocumentID>
+			<Name>98FA9BBD-851C-A1EB-8B5F-5D4689341972</Name>
+			<Description>98FA9BBD-851C-A1EB-8B5F-5D4689341972</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2020-11-23T11:22:35.211</CreationDate>
+			<Notes/>
+			<DeveloperText>EsclationMail</DeveloperText>
+			<Identifier>
+				<uri
+					id="98FA9BBD-851C-A1EB-8B5F-5D4689349972"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

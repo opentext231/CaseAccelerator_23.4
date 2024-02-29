@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFB5-C4D436BB596C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFB5-C4D436BB196C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFB5-C4D436BB196C</Name>
+	<Description>Generic Task</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T02:32:45.03</CreationDate>
+	<Notes/>
+	<Text>Generic Task</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3203FB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFB5-C4D436BA996C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

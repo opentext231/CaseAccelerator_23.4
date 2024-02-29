@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9D3F-DC7219FF1978">
+	<DocumentID>98FA9BBD-851C-A1EB-9D3F-DC7219FED978</DocumentID>
+	<Name>ImportTaskListWebLib</Name>
+	<Description>ImportTaskListWebLib</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-22T11:25:05.451</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EB-9D3F-DC721A05D978"
+			path="Import Task List Management/Import"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

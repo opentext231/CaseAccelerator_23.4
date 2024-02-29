@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A9A6-7955A97C99A8">
+	<DocumentID>98FA9BBD-851C-A1EC-A9A6-7955A97C59A8</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-A9A6-7955A97C59A8</Name>
+	<Description>Paused</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-18T09:01:12.781</CreationDate>
+	<Notes/>
+	<DefaultText>Paused</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E1E19A7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-A9A6-7955A97CD9A8"
+		/>
+	</Translations>
+</TextIdentifier>

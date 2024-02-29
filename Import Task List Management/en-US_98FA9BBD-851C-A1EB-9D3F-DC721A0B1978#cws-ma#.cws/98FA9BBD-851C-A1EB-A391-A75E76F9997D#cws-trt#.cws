@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A391-A75E76F9D97D">
+	<DocumentID>98FA9BBD-851C-A1EB-A391-A75E76F9997D</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A391-A75E76F9997D</Name>
+	<Description>Email Template?</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-26T15:20:14.763</CreationDate>
+	<Notes/>
+	<Text>Email Template?</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-9D3F-DC721A0B9978"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A391-A75E76F9197D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,19 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportCaseRouting xmlns="http://schemas.cordys.com/default">
+      <CaseRoutings>
+        <CaseRouting>
+          <Workflow>PARAMETER</Workflow>
+          <CaseType>PARAMETER</CaseType>
+          <Status>PARAMETER</Status>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <Category>PARAMETER</Category>
+          <UserID>PARAMETER</UserID>
+          <Subcategory>PARAMETER</Subcategory>
+          <Team>PARAMETER</Team>
+        </CaseRouting>
+      </CaseRoutings>
+    </ImportCaseRouting>
+  </SOAP:Body>
+</SOAP:Envelope>

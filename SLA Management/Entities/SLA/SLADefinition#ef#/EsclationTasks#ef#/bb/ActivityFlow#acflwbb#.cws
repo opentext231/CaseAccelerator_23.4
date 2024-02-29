@@ -1,0 +1,35 @@
+
+<ActivityflowBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.activityflow.ActivityflowBuildingBlock"
+	typeVersion="193b483e-a3b1-11ec-b909-0242ac120002"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFC6-A4BC0F25196C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFC6-A4BC0F24D96C</DocumentID>
+	<Name>ActivityFlow</Name>
+	<Description>ActivityFlow</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T10:37:01.612</CreationDate>
+	<Notes/>
+	<Activityflows/>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC6-A4BC0F28596C"
+		/>
+	</Entity>
+	<InboxTask/>
+	<InlinedEntities/>
+	<OwnedActions>
+		<ActivityflowStaticAction
+			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
+			RuntimeDocumentID="63D668B1FD884D818B6864637E3256B6">
+			<DocumentID>3BB13E5A-748C-3BE9-A113-94E2572F7FFB</DocumentID>
+			<Name>Initiateactivityflow</Name>
+			<Description>Initiateactivityflow</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-27T09:27:06.994</CreationDate>
+			<Notes/>
+		</ActivityflowStaticAction>
+	</OwnedActions>
+	<Properties/>
+	<Relationships/>
+</ActivityflowBuildingBlock>

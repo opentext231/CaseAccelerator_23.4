@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B8C-A7B07B615972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B8C-A7B07B611972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8B8C-A7B07B611972</Name>
+	<Description>Resolved / Cancel</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-24T08:56:38.991</CreationDate>
+	<Notes/>
+	<Text>Resolved / Cancel</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8B8C-A7B07B609972"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-AFEB-16EFE886D9AA">
+	<DocumentID>98FA9BBD-851C-A1EC-AFEB-16EFE88699AA</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-AFEB-16EFE88699AA</Name>
+	<Description>Update Flag</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-04-19T06:49:26.016</CreationDate>
+	<Notes/>
+	<Text>Update Flag</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E1D19A7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-AFEB-16EFE88619AA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

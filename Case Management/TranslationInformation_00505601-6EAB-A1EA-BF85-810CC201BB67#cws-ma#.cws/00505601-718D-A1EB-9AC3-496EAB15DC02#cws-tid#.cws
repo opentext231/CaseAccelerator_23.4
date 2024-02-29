@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-9AC3-496EAB161C02">
+	<DocumentID>00505601-718D-A1EB-9AC3-496EAB15DC02</DocumentID>
+	<Name>00505601-718D-A1EB-9AC3-496EAB15DC02</Name>
+	<Description>SLA status_1</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-09T19:36:47.867</CreationDate>
+	<Notes/>
+	<DefaultText>SLA status_1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-9AC3-496EAB165C02"
+		/>
+	</Translations>
+</TextIdentifier>

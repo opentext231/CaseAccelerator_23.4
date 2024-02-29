@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9938-3EB67DDB9975">
+	<DocumentID>98FA9BBD-851C-A1EB-9938-3EB67DDB5975</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9938-3EB67DDB5975</Name>
+	<Description>ImportCaseRouting</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-02-01T22:58:39.735</CreationDate>
+	<Notes/>
+	<Text>ImportCaseRouting</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-992C-D16FC1ACD975"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9938-3EB67DDAD975"
+		/>
+	</TextIdentifier>
+</TranslatedText>

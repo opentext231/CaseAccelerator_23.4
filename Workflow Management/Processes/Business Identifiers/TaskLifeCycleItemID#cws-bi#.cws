@@ -1,0 +1,34 @@
+
+<BusinessIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.businessidentifier.BusinessIdentifier"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-86A2-61B93E87196E">
+	<DocumentID>98FA9BBD-851C-A1EB-86A2-61B93E86D96E</DocumentID>
+	<Name>TaskLifeCycleItemID</Name>
+	<Description>TaskLifeCycleItemID</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-10-30T08:38:59.197</CreationDate>
+	<Notes/>
+	<DataType>1</DataType>
+	<Precision>0</Precision>
+	<TranslatableDescription/>
+	<TranslatableName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-86A2-61B93E84996E">
+			<DocumentID>98FA9BBD-851C-A1EB-86A2-61B93E84596E</DocumentID>
+			<Name>98FA9BBD-851C-A1EB-86A2-61B93E84596E</Name>
+			<Description>98FA9BBD-851C-A1EB-86A2-61B93E84596E</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2020-10-30T08:38:59.196</CreationDate>
+			<Notes/>
+			<DeveloperText>TaskLifeCycleItemID</DeveloperText>
+			<Identifier>
+				<uri
+					id="98FA9BBD-851C-A1EB-86A2-61B93E84D96E"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</TranslatableName>
+</BusinessIdentifier>

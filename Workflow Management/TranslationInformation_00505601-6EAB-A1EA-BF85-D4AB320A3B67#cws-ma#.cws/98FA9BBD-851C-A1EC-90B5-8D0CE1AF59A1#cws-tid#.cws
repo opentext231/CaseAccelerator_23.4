@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-90B5-8D0CE1AF99A1">
+	<DocumentID>98FA9BBD-851C-A1EC-90B5-8D0CE1AF59A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-90B5-8D0CE1AF59A1</Name>
+	<Description>Update To Rejected Task</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-11T10:00:52.944</CreationDate>
+	<Notes/>
+	<DefaultText>Update To Rejected Task</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB320ABB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-90B5-8D0CE1AFD9A1"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A5C1-3734BFE4997F">
+	<DocumentID>98FA9BBD-851C-A1EB-A5C1-3734BFE4597F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A5C1-3734BFE4597F</Name>
+	<Description>CreateUserAccount</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-06T18:21:44.013</CreationDate>
+	<Notes/>
+	<Text>CreateUserAccount</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027B7597E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-A5C1-3734BFE3D97F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

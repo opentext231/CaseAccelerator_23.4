@@ -1,0 +1,16 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportUILayout xmlns="http://schemas.cordys.com/default">
+      <UILayouts>
+        <UILayout>
+          <Name>PARAMETER</Name>
+          <Description>PARAMETER</Description>
+          <Status>PARAMETER</Status>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <UILayoutID>PARAMETER</UILayoutID>
+        </UILayout>
+      </UILayouts>
+    </ImportUILayout>
+  </SOAP:Body>
+</SOAP:Envelope>

@@ -1,0 +1,100 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-950D-66E5964A9974">
+	<DocumentID>98FA9BBD-851C-A1EB-950D-66E5964A5974</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-11T18:11:34.261</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EB-94BD-FB4D0948D974"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-950D-66E59648D974">
+			<DocumentID>98FA9BBD-851C-A1EB-950D-66E596489974</DocumentID>
+			<Name>ReadProcesses</Name>
+			<Description>Read Processes</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-11T18:11:34.261</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-FB4D0948D974"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-950D-66E59649D974">
+			<DocumentID>98FA9BBD-851C-A1EB-950D-66E596499974</DocumentID>
+			<Name>SetProcessFlows</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-11T18:11:34.26</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-FB4D0948D974"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BE-B49FDC5D9974"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-950D-66E596495974">
+			<DocumentID>98FA9BBD-851C-A1EB-950D-66E596491974</DocumentID>
+			<Name>ClearProcessFlows</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-11T18:11:34.261</CreationDate>
+			<Notes/>
+			<OperationType>ClearOne</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-FB4D0948D974"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BE-B49FDC5D9974"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-950D-66E596485974">
+			<DocumentID>98FA9BBD-851C-A1EB-950D-66E596481974</DocumentID>
+			<Name>UpdateProcesses</Name>
+			<Description>Update Processes</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-11T18:11:34.261</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-94BD-FB4D0948D974"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

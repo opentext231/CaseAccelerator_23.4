@@ -1,0 +1,104 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027C0197E">
+	<DocumentID>98FA9BBD-851C-A1EB-A51B-865027BFD97E</DocumentID>
+	<Name>Import SLA Management</Name>
+	<Description>Import SLA Management</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-03T11:27:25.55</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027BED97E">
+			<DocumentID>98FA9BBD-851C-A1EB-A51B-865027BE997E</DocumentID>
+			<Name>Opentext Import SLA Management</Name>
+			<Description>Opentext Import SLA Management</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T11:27:25.55</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>Opentext Import SLA Management</ISVPackageFileName>
+			<ISVPackageOwner>Opentext</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Import SLA Management</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027BF597E"
+			path="Import SLA Management"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027BE597E">
+			<DocumentID>98FA9BBD-851C-A1EB-A51B-865027BE197E</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T11:27:25.55</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="98FA9BBD-851C-A1EB-A51B-865027BD597E">
+					<DocumentID>98FA9BBD-851C-A1EB-A51B-865027BD197E</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>Joe Lewis</CreatedBy>
+					<CreationDate>2021-04-03T11:27:25.55</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="98FA9BBD-851C-A1EB-A51B-865027BC997E"
+							path="Import SLA Management/en-US_98FA9BBD-851C-A1EB-A51B-865027BC997E"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="98FA9BBD-851C-A1EB-A51B-865027BE197E"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="98FA9BBD-851C-A1EB-A51B-865027BD197E"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="98FA9BBD-851C-A1EB-A51B-865027BD997E"
+					path="Import SLA Management/TranslationInformation_98FA9BBD-851C-A1EB-A51B-865027BD997E"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

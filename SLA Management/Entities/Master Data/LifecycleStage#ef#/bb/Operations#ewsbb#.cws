@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A527-C8638B09D97E">
+	<DocumentID>98FA9BBD-851C-A1EB-A527-C8638B09997E</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-03T17:09:30.143</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A527-C8638B09197E">
+			<DocumentID>98FA9BBD-851C-A1EB-A527-C8638B08D97E</DocumentID>
+			<Name>CreateLifecycleStage</Name>
+			<Description>Create LifecycleStage</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T17:09:30.143</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-8032-B04FFEE8996C"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A527-C8638B07997E">
+			<DocumentID>98FA9BBD-851C-A1EB-A527-C8638B07597E</DocumentID>
+			<Name>DeleteLifecycleStage</Name>
+			<Description>Delete LifecycleStage</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T17:09:30.143</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-8032-B04FFEE8996C"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EB-8032-B04FFEE8996C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A527-C8638B08997E">
+			<DocumentID>98FA9BBD-851C-A1EB-A527-C8638B08597E</DocumentID>
+			<Name>ReadLifecycleStage</Name>
+			<Description>Read LifecycleStage</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T17:09:30.144</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-8032-B04FFEE8996C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-A527-C8638B08197E">
+			<DocumentID>98FA9BBD-851C-A1EB-A527-C8638B07D97E</DocumentID>
+			<Name>UpdateLifecycleStage</Name>
+			<Description>Update LifecycleStage</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-04-03T17:09:30.144</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-8032-B04FFEE8996C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

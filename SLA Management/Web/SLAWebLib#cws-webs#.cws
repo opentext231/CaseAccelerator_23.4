@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFC7-E721C9B8596C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFC7-E721C9B8196C</DocumentID>
+	<Name>SLAWebLib</Name>
+	<Description>SLAWebLib</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T11:31:59.489</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="00505601-6EAB-A1EA-BF86-96EC99D53B67"
+			path="SLA Management/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

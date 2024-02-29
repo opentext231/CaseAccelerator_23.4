@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8B9D-F607BA6C1972">
+	<DocumentID>98FA9BBD-851C-A1EB-8B9D-F607BA6BD972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8B9D-F607BA6BD972</Name>
+	<Description>PauseTime</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-24T17:39:16.181</CreationDate>
+	<Notes/>
+	<Text>PauseTime</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8B9D-F607BA6B5972"
+		/>
+	</TextIdentifier>
+</TranslatedText>

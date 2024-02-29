@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-86A1-1F167110D96E">
+	<DocumentID>98FA9BBD-851C-A1EB-86A1-1F167110996E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-86A1-1F167110996E</Name>
+	<Description>Receive Message</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-10-30T07:50:18.975</CreationDate>
+	<Notes/>
+	<Text>Receive Message</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-86A1-1F167110196E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8190-A0250B07196C">
+	<DocumentID>98FA9BBD-851C-A1EB-8190-A0250B06D96C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8190-A0250B06D96C</Name>
+	<Description>Decision</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-04T13:25:23.456</CreationDate>
+	<Notes/>
+	<Text>Decision</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-8025-F6EE2D96596C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8190-A0250B06596C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

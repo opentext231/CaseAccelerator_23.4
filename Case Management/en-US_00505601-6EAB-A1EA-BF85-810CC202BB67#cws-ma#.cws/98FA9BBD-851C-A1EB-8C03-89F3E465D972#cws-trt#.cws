@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8C03-89F3E4661972">
+	<DocumentID>98FA9BBD-851C-A1EB-8C03-89F3E465D972</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8C03-89F3E465D972</Name>
+	<Description>Copy of Send Reminder After SLA</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-11-26T17:38:21.981</CreationDate>
+	<Notes/>
+	<Text>Copy of Send Reminder After SLA</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8C03-89F3E4655972"
+		/>
+	</TextIdentifier>
+</TranslatedText>

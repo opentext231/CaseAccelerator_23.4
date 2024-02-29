@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-81B6-7C9B1ED8996C">
+	<DocumentID>98FA9BBD-851C-A1EB-81B6-7C9B1ED8596C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-81B6-7C9B1ED8596C</Name>
+	<Description>Is Contact?</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-05T07:18:18.426</CreationDate>
+	<Notes/>
+	<Text>Is Contact?</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31F87B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-81B6-7C9B1ED7D96C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

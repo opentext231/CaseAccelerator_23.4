@@ -1,0 +1,16 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <ImportSLAEMailTemplate xmlns="http://schemas.cordys.com/default">
+      <SLAEMailTemplates>
+        <SLAEMailTemplate>
+          <Name>PARAMETER</Name>
+          <Description>PARAMETER</Description>
+          <Status>PARAMETER</Status>
+          <RowNumber>PARAMETER</RowNumber>
+          <FailedInstanceID>PARAMETER</FailedInstanceID>
+          <EMailTemplateID>PARAMETER</EMailTemplateID>
+        </SLAEMailTemplate>
+      </SLAEMailTemplates>
+    </ImportSLAEMailTemplate>
+  </SOAP:Body>
+</SOAP:Envelope>

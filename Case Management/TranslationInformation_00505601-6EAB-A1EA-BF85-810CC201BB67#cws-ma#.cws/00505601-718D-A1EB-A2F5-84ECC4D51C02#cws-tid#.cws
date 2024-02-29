@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-A2F5-84ECC4D55C02">
+	<DocumentID>00505601-718D-A1EB-A2F5-84ECC4D51C02</DocumentID>
+	<Name>00505601-718D-A1EB-A2F5-84ECC4D51C02</Name>
+	<Description>On hold_2</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-23T14:52:46.676</CreationDate>
+	<Notes/>
+	<DefaultText>On hold_2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-A2F5-84ECC4D59C02"
+		/>
+	</Translations>
+</TextIdentifier>

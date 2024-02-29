@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8224-5BE3AEB9D96C">
+	<DocumentID>98FA9BBD-851C-A1EB-8224-5BE3AEB9996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8224-5BE3AEB9996C</Name>
+	<Description>SendMailWorkflowTaskProcess</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-07T11:40:07.719</CreationDate>
+	<Notes/>
+	<Text>SendMailWorkflowTaskProcess</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8224-5BE3AEB9196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-8337-3755C05BDBFF">
+	<DocumentID>00505601-718D-A1EB-8337-3755C05B9BFF</DocumentID>
+	<Name>00505601-718D-A1EB-8337-3755C05B9BFF</Name>
+	<Description>Task list routing</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-12T22:47:17.089</CreationDate>
+	<Notes/>
+	<Text>Task list routing</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-8337-3755C05B1BFF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

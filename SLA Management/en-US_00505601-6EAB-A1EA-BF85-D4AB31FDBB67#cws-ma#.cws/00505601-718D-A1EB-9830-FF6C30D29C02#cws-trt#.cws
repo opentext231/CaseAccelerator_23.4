@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-718D-A1EB-9830-FF6C30D2DC02">
+	<DocumentID>00505601-718D-A1EB-9830-FF6C30D29C02</DocumentID>
+	<Name>00505601-718D-A1EB-9830-FF6C30D29C02</Name>
+	<Description>Escalation tasks</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-27T17:27:01.166</CreationDate>
+	<Notes/>
+	<Text>Escalation tasks</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31FE3B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-718D-A1EB-9830-FF6C30D21C02"
+		/>
+	</TextIdentifier>
+</TranslatedText>

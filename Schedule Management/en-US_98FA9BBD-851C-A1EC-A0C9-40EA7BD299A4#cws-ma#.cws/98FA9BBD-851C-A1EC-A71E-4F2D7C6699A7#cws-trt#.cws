@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C66D9A7">
+	<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6699A7</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-A71E-4F2D7C6699A7</Name>
+	<Description>ReadScheduler</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-05T11:44:08.688</CreationDate>
+	<Notes/>
+	<Text>ReadScheduler</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A0C9-40EA7BD319A4"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-A71E-4F2D7C6619A7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

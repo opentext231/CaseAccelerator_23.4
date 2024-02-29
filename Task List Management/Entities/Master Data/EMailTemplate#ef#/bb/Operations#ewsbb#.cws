@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEBD96C">
+	<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BEB996C</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-01T01:58:19.476</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEB196C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BEAD96C</DocumentID>
+			<Name>CreateEMailTemplate</Name>
+			<Description>Create EMailTemplate</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:19.476</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-4151995C596C"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BE9996C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BE9596C</DocumentID>
+			<Name>DeleteEMailTemplate</Name>
+			<Description>Delete EMailTemplate</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:19.476</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-4151995C596C"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFB5-4151995C596C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEA996C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BEA596C</DocumentID>
+			<Name>ReadEMailTemplate</Name>
+			<Description>Read EMailTemplate</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:19.476</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-4151995C596C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-4C375BEA196C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-4C375BE9D96C</DocumentID>
+			<Name>UpdateEMailTemplate</Name>
+			<Description>Update EMailTemplate</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T01:58:19.476</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BFB5-4151995C596C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

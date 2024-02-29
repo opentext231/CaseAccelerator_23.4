@@ -1,0 +1,75 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8249-EDF099BED96D">
+	<DocumentID>98FA9BBD-851C-A1EB-8249-EDF099BE996D</DocumentID>
+	<Name>TaskStatus</Name>
+	<Description>TaskStatus</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-08T05:35:18.71</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hi&amp;nbsp;{item.Task.TaskOwnerName},&lt;br /&gt;
+&lt;br /&gt;
+You have a task assigned. The task status is:&amp;nbsp;&lt;br /&gt;
+&amp;nbsp;
+&lt;table border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot; style=&quot;width:500px&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Task Subject&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;{item.Task.Subject}&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Task Owner&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;{item.Task.TaskOwnerName}&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Task Status&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;{item.Task.State}&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Due Date&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;{item.Task.DueDate}&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Thanks! Have a great day!&lt;br /&gt;
+&lt;br /&gt;
+Case Management Team</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>{item.Task.Subject}: {item.Task.State}</Subject>
+	<To>{item.Properties.TaskOwnerEmail}</To>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFE9-A70F170C996C"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-827F-7AB59002196D">
+			<DocumentID>98FA9BBD-851C-A1EB-827F-7AB59001D96D</DocumentID>
+			<Name>98FA9BBD-851C-A1EB-827F-7AB59001D96D</Name>
+			<Description>98FA9BBD-851C-A1EB-827F-7AB59001D96D</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-09T10:16:32.0</CreationDate>
+			<Notes/>
+			<DeveloperText>TaskStatus</DeveloperText>
+			<Identifier>
+				<uri
+					id="98FA9BBD-851C-A1EB-827F-7AB59002596D"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

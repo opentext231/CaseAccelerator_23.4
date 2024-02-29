@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BCD2-AC07DC56198E">
+	<DocumentID>98FA9BBD-851C-A1EB-BCD2-AC07DC55D98E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BCD2-AC07DC55D98E</Name>
+	<Description>WorkflowTasksCreationBackup</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-08-02T04:32:50.33</CreationDate>
+	<Notes/>
+	<DefaultText>WorkflowTasksCreationBackup</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB320ABB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-BCD2-AC07DC56598E"
+		/>
+	</Translations>
+</TextIdentifier>

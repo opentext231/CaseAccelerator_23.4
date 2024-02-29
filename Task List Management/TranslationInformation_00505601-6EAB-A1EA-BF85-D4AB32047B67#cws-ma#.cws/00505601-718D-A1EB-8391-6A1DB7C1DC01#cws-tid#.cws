@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-8391-6A1DB7C21C01">
+	<DocumentID>00505601-718D-A1EB-8391-6A1DB7C1DC01</DocumentID>
+	<Name>00505601-718D-A1EB-8391-6A1DB7C1DC01</Name>
+	<Description>Update Email Template</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-10-14T17:51:14.826</CreationDate>
+	<Notes/>
+	<DefaultText>Update Email Template</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3204FB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-8391-6A1DB7C25C01"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,121 @@
+
+<HomepageLayout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.homepageLayout.HomepageLayout"
+	typeVersion="5FB698AB-8095-4249-8CC7-B4058DDA5D41"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A3F1-79E9E49599A6">
+	<DocumentID>98FA9BBD-851C-A1EC-A3F1-79E9E49559A6</DocumentID>
+	<Name>ScheduleManagement</Name>
+	<Description>ScheduleManagement</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-02-17T07:55:16.363</CreationDate>
+	<Notes/>
+	<AllowUpdateSecurityViaAdmin>false</AllowUpdateSecurityViaAdmin>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;98FA9BBD-851C-A1EC-A3F1-79E9E49559A6&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;86ec5ea8cec335a80d92c0e118b582ba&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;e5f622121e5b9c908deaf8f0697d8cd2&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;8a69b15cfc7731a1625bc3c514a28c22&quot;,&quot;nodes&quot;:[]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>true</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>false</IsFullLayout>
+	<IsPreviewLayout>false</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>1</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations/>
+	<BuildingBlock/>
+	<CustomActions/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A3F1-79E9E49319A6">
+			<DocumentID>98FA9BBD-851C-A1EC-A3F1-79E9E492D9A6</DocumentID>
+			<Name>98FA9BBD-851C-A1EC-A3F1-79E9E492D9A6</Name>
+			<Description>98FA9BBD-851C-A1EC-A3F1-79E9E492D9A6</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-02-17T07:55:16.363</CreationDate>
+			<Notes/>
+			<DeveloperText>Schedule management</DeveloperText>
+			<Identifier>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-79E9E49359A6"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A3F1-D08C5A8ED9A6">
+			<DocumentID>98FA9BBD-851C-A1EC-A3F1-D08C5A8E99A6</DocumentID>
+			<Name>Results</Name>
+			<Description/>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-02-17T08:02:14.923</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;e5f622121e5b9c908deaf8f0697d8cd2&quot;,&quot;imageQualifiedName&quot;:null,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
+			<DisplayName>Schedulers</DisplayName>
+			<ModelerId>e5f622121e5b9c908deaf8f0697d8cd2</ModelerId>
+			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
+			<SourceName>Results</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="98FA9BBD-851C-A1EC-A3F1-FA5EED0919A6">
+					<DocumentID>98FA9BBD-851C-A1EC-A3F1-FA5EED08D9A6</DocumentID>
+					<Name>98FA9BBD-851C-A1EC-A3F1-FA5EED08D9A6</Name>
+					<Description>98FA9BBD-851C-A1EC-A3F1-FA5EED08D9A6</Description>
+					<CreatedBy>Joe Lewis</CreatedBy>
+					<CreationDate>2022-02-17T08:02:29.145</CreationDate>
+					<Notes/>
+					<DeveloperText>Schedulers</DeveloperText>
+					<Identifier>
+						<uri
+							id="98FA9BBD-851C-A1EC-A3F1-FA5EED0959A6"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</LocalizableDisplayName>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-D08C5A8E19A6"
+				/>
+			</WorklistAssociation>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<SecurityDescriptor/>
+	<WorklistAssociations>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A3F1-D08C5A8E59A6">
+			<DocumentID>98FA9BBD-851C-A1EC-A3F1-D08C5A8E19A6</DocumentID>
+			<Name>Results_SelectedWorklist</Name>
+			<Description>All schedulers</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-02-17T08:02:14.923</CreationDate>
+			<Notes/>
+			<DisplayName>All schedulers</DisplayName>
+			<ModelerId>96757ebe9fb7fb9d67a20c1b6c763a90</ModelerId>
+			<Worklist>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-D08C5AA019A6"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+	</WorklistAssociations>
+	<XFormAssociations/>
+</HomepageLayout>

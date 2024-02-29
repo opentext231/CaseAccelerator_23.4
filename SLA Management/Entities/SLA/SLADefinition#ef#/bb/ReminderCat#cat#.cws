@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-95CB-183053F79974">
+	<DocumentID>98FA9BBD-851C-A1EB-95CB-183053F75974</DocumentID>
+	<Name>ReminderCat</Name>
+	<Description>ReminderCat</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-15T12:33:51.907</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFC6-8261E6C6596C"
+		/>
+	</BuildingBlock>
+</Category>

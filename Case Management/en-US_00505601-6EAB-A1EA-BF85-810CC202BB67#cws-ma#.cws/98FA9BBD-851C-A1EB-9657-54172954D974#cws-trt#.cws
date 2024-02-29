@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-9657-541729551974">
+	<DocumentID>98FA9BBD-851C-A1EB-9657-54172954D974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-9657-54172954D974</Name>
+	<Description>LicenseApproval</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-18T07:20:08.927</CreationDate>
+	<Notes/>
+	<Text>LicenseApproval</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-9657-541729545974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

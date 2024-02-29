@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+	<head>
+	<style>
+		@font-face {
+		font-family: "Aktiv grotesk";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../../cws/style/fonts/OpenTextSans_W_Rg.woff") format('woff');
+		text-rendering: optimizeLegibility;
+	}
+
+	@font-face {
+		font-family: "Aktiv grotesk";
+		src: url("../../cws/style/fonts/OpenTextSans_W_Bd.woff") format('woff');
+		font-weight: bold;
+		font-style: normal;
+		text-rendering: optimizeLegibility;
+	}
+	.quick_link{
+		height: 50px;
+		line-height:50px;
+		color: #fff;
+	}
+	</style>
+	</head>
+	<body onload='fillUser()'>
+		<div class="content" style="padding: 65px;
+    margin: auto;
+    height: 120px;
+    width: 120px;
+    font-family: 'Aktiv grotesk';
+    margin-top: 28px;
+    border: 2px solid #e86228;
+    border-radius: 50%;
+    background: linear-gradient(#DD970E 0%, #C16C08 59%, #A54003 100%);">
+				<div id="create_icon-holder" style="margin: auto;width: 60px;">
+					<img src="" id="user_icon" style="height:60px;width:60px;border-radius:50%;"></img>
+				</div>
+				<div id="creat_text_greeting" style="font-size: 25px;font-weight: bold;color: #fff;padding-top: 0px;padding-bottom: 0px;">
+					Welcome,
+				</div>
+				<div id="creat_text_name" style="text-align: center;height: 25px;color:#fff;font-size:18px;white-space: nowrap;text-overflow: ellipsis;word-break: break-all;overflow: hidden;">
+					${fullName}
+				</div>
+				<div id="logged_in_date" style="text-align: center;height: 25px;color:#fff;font-size: 10px;padding-top: 6px;">
+						${date}
+				</div>
+			</div>
+		<script>
+			function fillUser(){
+				var userID, pictureURL, fullName,userName;
+				const FULL_NAME = 'fullName';
+				const PICTURE = 'picture';
+				var parts = this.document.location.href.split('.html');
+				var params = parts[1].split('&&');
+				params.forEach(function(param){
+					var arguments = param.split('=');
+					if(param.indexOf(FULL_NAME)!= -1){
+						fullName = param.substring(FULL_NAME.length +1 , param.length);
+                                                fullName = decodeURIComponent(fullName);
+					}
+					if(param.indexOf(PICTURE) != -1){
+						pictureURL = param.substring(PICTURE.length+1 , param.length);
+					}
+				});
+				
+				document.getElementById('creat_text_name').innerText = fullName;
+				if(pictureURL != null && (pictureURL.indexOf('javascript') == -1) && (pictureURL.indexOf('alert') == -1)){
+					document.getElementById('user_icon').src= pictureURL;
+				}
+	                       document.getElementById('creat_text_name').setAttribute('title', fullName);
+			}
+			let date = new Date().toLocaleString();
+			document.getElementById('logged_in_date').innerText = date;
+		</script>
+	</body>
+</html>

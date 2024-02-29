@@ -1,0 +1,222 @@
+
+<XFormDesigntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.xforms.XFormDesigntime"
+	typeVersion="002481EE-993D-11E2-E030-02C88B2B3B65"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-965F-EC65AC871974">
+	<DocumentID>98FA9BBD-851C-A1EB-965F-EC65AC875974</DocumentID>
+	<Name>ProcessViewDetails</Name>
+	<Description>ProcessViewDetails</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-18T11:36:20.267</CreationDate>
+	<Notes/>
+	<XFormContent>
+		<xformhtml
+			xmlns="http://schemas.cordys.com/1.0/xform"
+			xmlns:xforms="http://www.w3.org/2002/xforms/cr"
+			xmlns:ev="http://www.w3.org/2001/xml-events"
+			xmlns:wcpforms="http://schemas.cordys.com/wcp/xforms"
+			xformsversion="2"
+			focusatstartup="true"
+			showNotify="false"
+			showError="false">
+			<xhead/>
+			<xbody>
+				<xforms:group
+					wcpforms:layout="vertical"
+					id="xbody_group"
+					wcpforms:labelalign="ontop">
+					<xforms:div
+						xformextendedname="processInstanceGraphicalView"
+						id="processinstancegraphicalview1"
+						runtimeLibrary="bpm.controls.pim.runtime.ProcessInstanceGraphicalView"
+						wcpforms:designLibrary="bpm.controls.pim.designtime.ProcessInstanceGraphicalView"
+						documentID="98FA9BBD-851C-A1EB-95E8-82798D569974"
+						instanceID=""
+						runtimeDocumentID=""
+						workspaceID=""
+						wcpforms:class="v_layout"
+						wcpforms:size="827px 560px"
+					/>
+					<xforms:label
+						appearance="richtext"
+						wcpforms:designLibrary="cas.xforms.designerlibrary.controls.XFormsRichtext"
+						id="rte1"
+						textIdentifier="98FA9BBD-851C-A1EB-965F-EC65AC8C1974"
+						wcpforms:class="v_layout"
+						wcpforms:size="838px 62px">
+						<![CDATA[<h1>Process View is not availble</h1>]]>
+					</xforms:label>
+				</xforms:group>
+			</xbody>
+			<xformsscript>
+				<![CDATA[
+
+function Form_InitDone(eventObject)
+{
+
+    if ((application.getParameter('instanceID') != '1') && (application.getParameter('runtimeDocumentID') !='1') && (application.getParameter('workspaceID') !='1'))
+    {
+
+
+    processinstancegraphicalview1.instanceID=application.getParameter('instanceID');
+    processinstancegraphicalview1.runtimeDocumentID=application.getParameter('runtimeDocumentID');
+    processinstancegraphicalview1.workspaceID=application.getParameter('workspaceID');
+    processinstancegraphicalview1.refresh();
+    rte1.hide();
+    
+    }
+    
+    else
+    {
+    rte1.show();
+    }
+    
+}
+function Form_Init(eventObject)
+{
+        if ((application.getParameter('instanceID') != '1') && (application.getParameter('runtimeDocumentID') !='1') && (application.getParameter('workspaceID') !='1'))
+    {
+
+
+    processinstancegraphicalview1.instanceID=application.getParameter('instanceID');
+    processinstancegraphicalview1.runtimeDocumentID=application.getParameter('runtimeDocumentID');
+    processinstancegraphicalview1.workspaceID=application.getParameter('workspaceID');
+    processinstancegraphicalview1.refresh();
+    rte1.hide();
+    
+    }
+    
+    else
+    {
+    rte1.show();
+    }
+}
+]]>
+			</xformsscript>
+			<xforms:action
+				ev:event="xforms-initialize-done">
+				<xforms:Form_InitDone/>
+			</xforms:action>
+			<xforms:action
+				ev:event="xforms-init">
+				<xforms:Form_Init/>
+			</xforms:action>
+		</xformhtml>
+	</XFormContent>
+	<XFormWSDL/>
+	<automatic>false</automatic>
+	<caption></caption>
+	<data/>
+	<height></height>
+	<imageUrl></imageUrl>
+	<info></info>
+	<isInternal>false</isInternal>
+	<isLegacy>false</isLegacy>
+	<isPublicImage>false</isPublicImage>
+	<left></left>
+	<mode>full</mode>
+	<parameters/>
+	<qualifiedclassname></qualifiedclassname>
+	<showOnStartPage>false</showOnStartPage>
+	<taskDescription>ProcessViewDetails</taskDescription>
+	<taskName>ProcessViewDetails</taskName>
+	<title>true</title>
+	<top></top>
+	<type>XForm</type>
+	<width></width>
+	<CompositeControls/>
+	<Htms/>
+	<Images/>
+	<InstanceSchemaFragments/>
+	<Javascripts/>
+	<ReferredXForms/>
+	<Representations>
+		<uri
+			id="98FA9BBD-851C-A1EB-95E8-82798D569974"
+		/>
+	</Representations>
+	<StyleSheets/>
+	<TranslatableApplications/>
+	<TranslatableName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-965F-EC65AC835974">
+			<DocumentID>98FA9BBD-851C-A1EB-965F-EC65AC831974</DocumentID>
+			<Name>98FA9BBD-851C-A1EB-965F-EC65AC831974</Name>
+			<Description>98FA9BBD-851C-A1EB-965F-EC65AC831974</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-18T11:36:20.266</CreationDate>
+			<Notes/>
+			<DeveloperText>ProcessViewDetails</DeveloperText>
+			<Identifier>
+				<uri
+					id="98FA9BBD-851C-A1EB-965F-EC65AC839974"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</TranslatableName>
+	<TranslatableUITexts>
+		<TranslatableUIText
+			type="com.cordys.xforms.TranslatableUIText"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-965F-EC65AC869974">
+			<DocumentID>98FA9BBD-851C-A1EB-965F-EC65AC86D974</DocumentID>
+			<Name>98FA9BBD-851C-A1EB-965F-EC65AC8B1974</Name>
+			<Description>98FA9BBD-851C-A1EB-965F-EC65AC8B1974</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-18T11:36:20.267</CreationDate>
+			<Notes/>
+			<UIRef>rte1</UIRef>
+			<TooltipText/>
+			<TranslatableName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="98FA9BBD-851C-A1EB-965F-EC65AC861974">
+					<DocumentID>98FA9BBD-851C-A1EB-965F-EC65AC865974</DocumentID>
+					<Name>98FA9BBD-851C-A1EB-965F-EC65AC8B9974</Name>
+					<Description>98FA9BBD-851C-A1EB-965F-EC65AC8B9974</Description>
+					<CreatedBy>Joe Lewis</CreatedBy>
+					<CreationDate>2021-01-18T11:36:20.268</CreationDate>
+					<Notes/>
+					<DeveloperText>&lt;h1&gt;Process View is not availble&lt;/h1&gt;</DeveloperText>
+					<Identifier>
+						<uri
+							id="98FA9BBD-851C-A1EB-965F-EC65AC8C1974"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</TranslatableName>
+			<XForm>
+				<uri
+					id="98FA9BBD-851C-A1EB-965F-EC65AC875974"
+				/>
+			</XForm>
+		</TranslatableUIText>
+	</TranslatableUITexts>
+	<Webservices/>
+	<aclFragments/>
+	<deliveryModels/>
+	<image/>
+	<input/>
+	<messageParts>
+		<MessagePart
+			type="com.cordys.task.MessagePart"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-965F-EC65AC851974">
+			<DocumentID>98FA9BBD-851C-A1EB-965F-EC65AC855974</DocumentID>
+			<Name>freeformcontrols</Name>
+			<Description>freeformcontrols</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2021-01-18T11:36:20.266</CreationDate>
+			<Notes/>
+			<isRefExists>false</isRefExists>
+			<namespace>http://schemas.cordys.com/1.0/xforms/processapi</namespace>
+			<operationName>freeformcontrols</operationName>
+		</MessagePart>
+	</messageParts>
+	<messages/>
+	<output/>
+	<tagsContainer/>
+	<taskParts/>
+</XFormDesigntime>

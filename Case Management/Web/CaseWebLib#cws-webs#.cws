@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BF97-07BCC308596C">
+	<DocumentID>98FA9BBD-851C-A1EA-BF97-07BCC308196C</DocumentID>
+	<Name>CaseWebLib</Name>
+	<Description>CaseWebLib</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-24T11:55:23.184</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="00505601-6EAB-A1EA-BF86-01969EC3BB67"
+			path="Case Management/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

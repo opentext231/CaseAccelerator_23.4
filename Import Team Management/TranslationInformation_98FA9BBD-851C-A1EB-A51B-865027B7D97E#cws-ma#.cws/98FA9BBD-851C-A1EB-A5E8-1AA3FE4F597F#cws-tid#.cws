@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A5E8-1AA3FE4F997F">
+	<DocumentID>98FA9BBD-851C-A1EB-A5E8-1AA3FE4F597F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A5E8-1AA3FE4F597F</Name>
+	<Description>Get Organizational Unit</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-07T12:55:07.756</CreationDate>
+	<Notes/>
+	<DefaultText>Get Organizational Unit</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027B8597E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-A5E8-1AA3FE4FD97F"
+		/>
+	</Translations>
+</TextIdentifier>

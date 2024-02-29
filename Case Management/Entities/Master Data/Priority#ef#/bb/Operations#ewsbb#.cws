@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-B4C55D84596C">
+	<DocumentID>98FA9BBD-851C-A1EB-80E2-B4C55D84196C</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-01T02:08:53.171</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-B4C55D83996C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-B4C55D83596C</DocumentID>
+			<Name>CreatePriority</Name>
+			<Description>Create Priority</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T02:08:53.171</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-68AD4717596C"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-B4C55D82196C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-B4C55D81D96C</DocumentID>
+			<Name>DeletePriority</Name>
+			<Description>Delete Priority</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T02:08:53.171</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-68AD4717596C"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EA-BF90-68AD4717596C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-B4C55D83196C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-B4C55D82D96C</DocumentID>
+			<Name>ReadPriority</Name>
+			<Description>Read Priority</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T02:08:53.171</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-68AD4717596C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-80E2-B4C55D82996C">
+			<DocumentID>98FA9BBD-851C-A1EB-80E2-B4C55D82596C</DocumentID>
+			<Name>UpdatePriority</Name>
+			<Description>Update Priority</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-01T02:08:53.17</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EA-BF90-68AD4717596C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

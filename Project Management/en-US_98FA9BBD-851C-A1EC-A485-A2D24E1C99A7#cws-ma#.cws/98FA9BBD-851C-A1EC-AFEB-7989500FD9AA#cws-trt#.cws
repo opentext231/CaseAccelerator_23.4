@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-AFEB-7989501019AA">
+	<DocumentID>98FA9BBD-851C-A1EC-AFEB-7989500FD9AA</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-AFEB-7989500FD9AA</Name>
+	<Description>Inbox</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-04-19T07:07:01.956</CreationDate>
+	<Notes/>
+	<Text>Inbox</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EC-A485-A2D24E1D19A7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-AFEB-7989500F59AA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

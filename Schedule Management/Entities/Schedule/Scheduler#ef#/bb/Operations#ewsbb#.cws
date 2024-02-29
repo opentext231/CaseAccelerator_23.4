@@ -1,0 +1,153 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C7359A7">
+	<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C7319A7</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-05T11:42:26.133</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C7299A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C7259A7</DocumentID>
+			<Name>CreateScheduler</Name>
+			<Description>Create Scheduler</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:26.133</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C7119A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C70D9A7</DocumentID>
+			<Name>DeleteScheduler</Name>
+			<Description>Delete Scheduler</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:26.134</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C7219A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C71D9A7</DocumentID>
+			<Name>ReadScheduler</Name>
+			<Description>Read Scheduler</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:26.133</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C7099A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C7059A7</DocumentID>
+			<Name>CreateChildrenTasks</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:26.134</CreationDate>
+			<Notes/>
+			<OperationType>CreateChildren</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04E19A6"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C7019A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6FD9A7</DocumentID>
+			<Name>GetChildrenTasks</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:26.133</CreationDate>
+			<Notes/>
+			<OperationType>GetChildren</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04E19A6"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C6F99A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6F59A7</DocumentID>
+			<Name>DeleteChildrenTasks</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:26.133</CreationDate>
+			<Notes/>
+			<OperationType>DeleteChildren</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04E19A6"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C7199A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C7159A7</DocumentID>
+			<Name>UpdateScheduler</Name>
+			<Description>Update Scheduler</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:26.134</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-0B5B6DAD19A6"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

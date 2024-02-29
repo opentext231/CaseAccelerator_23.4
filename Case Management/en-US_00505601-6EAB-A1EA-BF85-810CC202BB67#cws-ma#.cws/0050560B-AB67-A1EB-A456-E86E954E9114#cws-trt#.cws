@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0050560B-AB67-A1EB-A456-E86E954ED114">
+	<DocumentID>0050560B-AB67-A1EB-A456-E86E954E9114</DocumentID>
+	<Name>0050560B-AB67-A1EB-A456-E86E954E9114</Name>
+	<Description>Export Case details</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2021-03-30T13:45:49.106</CreationDate>
+	<Notes/>
+	<Text>Export Case details</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0050560B-AB67-A1EB-A456-E86E954E1114"
+		/>
+	</TextIdentifier>
+</TranslatedText>

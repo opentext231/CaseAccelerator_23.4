@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-9596-D4F2425C59A1">
+	<DocumentID>98FA9BBD-851C-A1EC-9596-D4F2425C19A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-9596-D4F2425C19A1</Name>
+	<Description>Allow to Close the Case once all sub-cases are closed</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-12-06T06:19:23.203</CreationDate>
+	<Notes/>
+	<DefaultText>Allow to Close the Case once all sub-cases are closed</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-9596-D4F2425C99A1"
+		/>
+	</Translations>
+</TextIdentifier>

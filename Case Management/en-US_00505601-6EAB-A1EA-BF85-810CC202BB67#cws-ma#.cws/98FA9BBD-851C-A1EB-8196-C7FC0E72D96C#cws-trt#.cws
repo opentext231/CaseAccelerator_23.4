@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8196-C7FC0E73196C">
+	<DocumentID>98FA9BBD-851C-A1EB-8196-C7FC0E72D96C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8196-C7FC0E72D96C</Name>
+	<Description>UpdateWorkflowTaskStatus</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-04T16:04:20.829</CreationDate>
+	<Notes/>
+	<Text>UpdateWorkflowTaskStatus</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8196-C7FC0E72596C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

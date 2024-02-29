@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-8181-DBBE2F5F996C">
+	<DocumentID>98FA9BBD-851C-A1EB-8181-DBBE2F5F596C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-8181-DBBE2F5F596C</Name>
+	<Description>Initiate Task List Task</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-04T06:04:30.804</CreationDate>
+	<Notes/>
+	<Text>Initiate Task List Task</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3209BB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-8181-DBBE2F5ED96C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-81C0-0CA16C09D96C">
+	<DocumentID>98FA9BBD-851C-A1EB-81C0-0CA16C09996C</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-05T11:46:39.544</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-81C0-0CA16C09196C">
+			<DocumentID>98FA9BBD-851C-A1EB-81C0-0CA16C08D96C</DocumentID>
+			<Name>CreateComments</Name>
+			<Description>Create Comments</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-05T11:46:39.545</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-81BF-511EA7EC596C"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-81C0-0CA16C07996C">
+			<DocumentID>98FA9BBD-851C-A1EB-81C0-0CA16C07596C</DocumentID>
+			<Name>DeleteComments</Name>
+			<Description>Delete Comments</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-05T11:46:39.545</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-81BF-511EA7EC596C"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EB-81BF-511EA7EC596C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-81C0-0CA16C08996C">
+			<DocumentID>98FA9BBD-851C-A1EB-81C0-0CA16C08596C</DocumentID>
+			<Name>ReadComments</Name>
+			<Description>Read Comments</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-05T11:46:39.546</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-81BF-511EA7EC596C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EB-81C0-0CA16C08196C">
+			<DocumentID>98FA9BBD-851C-A1EB-81C0-0CA16C07D96C</DocumentID>
+			<Name>UpdateComments</Name>
+			<Description>Update Comments</Description>
+			<CreatedBy>joe</CreatedBy>
+			<CreationDate>2020-10-05T11:46:39.546</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EB-81BF-511EA7EC596C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

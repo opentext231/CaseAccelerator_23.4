@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFBD-FB3BCBAC196C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFBD-FB3BCBABD96C</DocumentID>
+	<Name>TaskListWebLib</Name>
+	<Description>TaskListWebLib</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-25T06:51:30.187</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="00505601-6EAB-A1EA-BF86-01969EC0BB67"
+			path="Task List Management/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

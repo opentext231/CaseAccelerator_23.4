@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BFE6-8F8E2D4AD96C">
+	<DocumentID>98FA9BBD-851C-A1EA-BFE6-8F8E2D4A996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BFE6-8F8E2D4A996C</Name>
+	<Description>Task List Summary</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-26T01:52:22.175</CreationDate>
+	<Notes/>
+	<Text>Task List Summary</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB3203FB67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BFE6-8F8E2D4A196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

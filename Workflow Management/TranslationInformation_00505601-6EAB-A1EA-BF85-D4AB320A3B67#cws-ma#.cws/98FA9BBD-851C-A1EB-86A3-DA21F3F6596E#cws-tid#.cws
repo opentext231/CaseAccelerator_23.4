@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-86A3-DA21F3F6996E">
+	<DocumentID>98FA9BBD-851C-A1EB-86A3-DA21F3F6596E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-86A3-DA21F3F6596E</Name>
+	<Description>Task List Instance Creation</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2020-10-30T09:11:02.423</CreationDate>
+	<Notes/>
+	<DefaultText>Task List Instance Creation</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB320ABB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-86A3-DA21F3F6D96E"
+		/>
+	</Translations>
+</TextIdentifier>

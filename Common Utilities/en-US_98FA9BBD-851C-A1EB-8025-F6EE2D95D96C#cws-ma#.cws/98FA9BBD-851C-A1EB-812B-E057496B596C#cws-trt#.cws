@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-812B-E057496B996C">
+	<DocumentID>98FA9BBD-851C-A1EB-812B-E057496B596C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-812B-E057496B596C</Name>
+	<Description>PlanTaskProcess</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-02T13:02:42.157</CreationDate>
+	<Notes/>
+	<Text>PlanTaskProcess</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-8025-F6EE2D96596C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-812B-E057496AD96C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

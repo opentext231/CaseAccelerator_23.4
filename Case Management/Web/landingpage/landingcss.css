@@ -1,0 +1,122 @@
+* {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: rgb(255, 255, 255);
+	font-family: "Lato", "Helvetica", sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+}
+h1,h2,h3,h4{
+	margin:0px;
+}
+.container-fluid {
+    height: 100%;
+    background: linear-gradient(to right top, #090e2c 60%,#122c69 83%, #078db3 100%);
+    padding: 20px 80px 20px 80px;
+}
+
+.row {
+    height: 50%;
+    padding: 10px 10px 10px 10px;
+}
+
+.row>div {
+    height: 100%;
+    padding: 0px;
+}
+
+.otwell {
+    height: 100%;
+    background-color: transparent;
+    border: 0px;
+    border-radius: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 0px;
+}
+
+.header {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+	flex-direction: column;
+    display: -webkit-flex;
+	padding: 0 5px 0 5px;
+}
+
+.content {
+    height: 100%;
+}
+
+#workspace1 .content {
+    background-color: #111b58;
+}
+
+#workspace2 .content {
+    background-color:#4f3690;
+}
+
+#workspace3 .content {
+    background-color:#2e3d98;
+}
+
+#workspace4 .content {
+    background-color:#078db3;
+}
+
+#workspace5 .content {
+    background-color:#055e78;
+}
+
+#workspace6 .content {
+    background-color:#780050;
+}
+
+#workspace7 .content {
+    background-color:#00639b;
+}
+
+#workspace8 .content {
+    background-color:#3b296c;
+}
+
+.layout>.well>div {
+    height: 25%;
+    padding-bottom: 5px;
+}
+
+.content .icon-holder {
+    display: flex;
+    height: 100%;
+    flex-grow: 1;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+}
+.icon-holder img{
+	height:7vw;
+    width: 7vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon-holder:hover img, .icon-holder:focus img, .content:hover img, .content:focus img{
+	transform: scale(1.2);
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+}
+
+.icon-holder p {
+    text-align: center;
+    padding: 10px 50px 0px 50px;
+    opacity: 1;
+}
+.icon-holder h3 {
+    text-align: center;
+    padding-top:20px;
+}

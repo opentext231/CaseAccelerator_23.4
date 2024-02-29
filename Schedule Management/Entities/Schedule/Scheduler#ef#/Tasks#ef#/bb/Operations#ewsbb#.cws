@@ -1,0 +1,121 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C6D99A7">
+	<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6D59A7</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2022-03-05T11:42:43.276</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="98FA9BBD-851C-A1EC-A3F1-293CD04D99A6"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C6CD9A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6C99A7</DocumentID>
+			<Name>ReadTasks</Name>
+			<Description>Read Tasks</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:43.277</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04D99A6"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C6BD9A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6B99A7</DocumentID>
+			<Name>SetUserAccount</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:43.276</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04D99A6"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-5311E99199A6"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C6B59A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6B19A7</DocumentID>
+			<Name>ClearUserAccount</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:43.277</CreationDate>
+			<Notes/>
+			<OperationType>ClearOne</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04D99A6"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-5311E99199A6"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A984-8F6D281359A8">
+			<DocumentID>98FA9BBD-851C-A1EC-A984-8F6D281319A8</DocumentID>
+			<Name>GetParentScheduler</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-17T16:56:20.932</CreationDate>
+			<Notes/>
+			<OperationType>GetParent</OperationType>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04D99A6"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="98FA9BBD-851C-A1EC-A984-8F6D2817D9A8"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="98FA9BBD-851C-A1EC-A71E-4F2D7C6C59A7">
+			<DocumentID>98FA9BBD-851C-A1EC-A71E-4F2D7C6C19A7</DocumentID>
+			<Name>UpdateTasks</Name>
+			<Description>Update Tasks</Description>
+			<CreatedBy>Joe Lewis</CreatedBy>
+			<CreationDate>2022-03-05T11:42:43.277</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="98FA9BBD-851C-A1EC-A3F1-293CD04D99A6"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EA-BF95-47D86950D96C">
+	<DocumentID>98FA9BBD-851C-A1EA-BF95-47D86950996C</DocumentID>
+	<Name>98FA9BBD-851C-A1EA-BF95-47D86950996C</Name>
+	<Description>Active User Accounts</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-09-24T11:01:23.543</CreationDate>
+	<Notes/>
+	<Text>Active User Accounts</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB31F87B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EA-BF95-47D86950196C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

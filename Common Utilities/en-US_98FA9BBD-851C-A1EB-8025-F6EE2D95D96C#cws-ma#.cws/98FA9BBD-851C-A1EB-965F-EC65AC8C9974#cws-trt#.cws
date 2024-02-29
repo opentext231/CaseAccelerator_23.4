@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-965F-EC65AC8CD974">
+	<DocumentID>98FA9BBD-851C-A1EB-965F-EC65AC8C9974</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-965F-EC65AC8C9974</Name>
+	<Description>&lt;h1&gt;Process View is not availble&lt;/h1&gt;</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-01-18T11:30:05.778</CreationDate>
+	<Notes/>
+	<Text>&lt;h1&gt;Process View is not availble&lt;/h1&gt;</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-8025-F6EE2D96596C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-965F-EC65AC8C1974"
+		/>
+	</TextIdentifier>
+</TranslatedText>

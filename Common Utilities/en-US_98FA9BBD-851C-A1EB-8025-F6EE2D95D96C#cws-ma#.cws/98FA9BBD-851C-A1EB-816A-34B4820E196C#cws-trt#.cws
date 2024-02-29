@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-816A-34B4820E596C">
+	<DocumentID>98FA9BBD-851C-A1EB-816A-34B4820E196C</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-816A-34B4820E196C</Name>
+	<Description>LifeCycle?</Description>
+	<CreatedBy>joe</CreatedBy>
+	<CreationDate>2020-10-03T18:48:58.643</CreationDate>
+	<Notes/>
+	<Text>LifeCycle?</Text>
+	<Language>
+		<uri
+			id="98FA9BBD-851C-A1EB-8025-F6EE2D96596C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-816A-34B4820D996C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

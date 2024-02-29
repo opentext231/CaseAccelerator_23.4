@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-A551-040424ABD97F">
+	<DocumentID>98FA9BBD-851C-A1EB-A551-040424AB997F</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-A551-040424AB997F</Name>
+	<Description>CreateSLAEMailTemplate</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-04-04T13:43:23.329</CreationDate>
+	<Notes/>
+	<DefaultText>CreateSLAEMailTemplate</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="98FA9BBD-851C-A1EB-A51B-865027BE197E"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EB-A551-040424AC197F"
+		/>
+	</Translations>
+</TextIdentifier>

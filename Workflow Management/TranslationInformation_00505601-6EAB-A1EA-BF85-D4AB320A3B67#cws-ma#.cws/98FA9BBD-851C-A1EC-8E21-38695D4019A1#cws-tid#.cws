@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-8E21-38695D4059A1">
+	<DocumentID>98FA9BBD-851C-A1EC-8E21-38695D4019A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-8E21-38695D4019A1</Name>
+	<Description>Conditional task</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-10-29T06:54:48.165</CreationDate>
+	<Notes/>
+	<DefaultText>Conditional task</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-D4AB320ABB67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-8E21-38695D4099A1"
+		/>
+	</Translations>
+</TextIdentifier>

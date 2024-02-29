@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-718D-A1EB-A207-E176E9CADC02">
+	<DocumentID>00505601-718D-A1EB-A207-E176E9CA9C02</DocumentID>
+	<Name>00505601-718D-A1EB-A207-E176E9CA9C02</Name>
+	<Description>Subcategory_14</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-03-18T19:43:38.791</CreationDate>
+	<Notes/>
+	<DefaultText>Subcategory_14</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2013B67"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-718D-A1EB-A207-E176E9CB1C02"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EB-BBE7-85836F65598E">
+	<DocumentID>98FA9BBD-851C-A1EB-BBE7-85836F65198E</DocumentID>
+	<Name>98FA9BBD-851C-A1EB-BBE7-85836F65198E</Name>
+	<Description>Workflow ProcessInitiation</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-07-28T12:20:44.592</CreationDate>
+	<Notes/>
+	<Text>Workflow ProcessInitiation</Text>
+	<Language>
+		<uri
+			id="00505601-6EAB-A1EA-BF85-810CC2023B67"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EB-BBE7-85836F64998E"
+		/>
+	</TextIdentifier>
+</TranslatedText>
