@@ -1228,7 +1228,7 @@
 											<Value>Active</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5E25A49C03ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-057DE6EA09E5"
 													path="Team Management/Web/Team_status_active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1272,7 +1272,7 @@
 											<Value>Inactive</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5E25A49703ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-057DE6E609E5"
 													path="Team Management/Web/Team_status_inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

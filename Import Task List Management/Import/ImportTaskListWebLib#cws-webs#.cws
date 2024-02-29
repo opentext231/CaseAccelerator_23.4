@@ -12,7 +12,7 @@
 	<NamespacePrefix></NamespacePrefix>
 	<SourceFolder>
 		<uri
-			id="98FA9BBD-851C-A1EB-9D3F-DC721A05D978"
+			id="28DFEB6B-98A5-A1EE-B5BB-09F80C5189E5"
 			path="Import Task List Management/Import"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>

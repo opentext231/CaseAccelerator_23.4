@@ -911,7 +911,7 @@
 											<Value>Inprogress</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023BAE783ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A292009E5"
 													path="Project Management/Web/Project_Draft.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -955,7 +955,7 @@
 											<Value>Completed</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023BB2383ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A292409E5"
 													path="Project Management/Web/Project_Active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -999,7 +999,7 @@
 											<Value>New</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023BADC03ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A291809E5"
 													path="Project Management/Web/Project_New.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1043,7 +1043,7 @@
 											<Value>Inactive</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023BAE003ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A291C09E5"
 													path="Project Management/Web/Project_Inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

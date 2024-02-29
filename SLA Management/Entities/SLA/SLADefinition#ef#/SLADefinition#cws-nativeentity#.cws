@@ -716,7 +716,7 @@
 											<Value>In Progress</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5EA598EC83ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-06FC124A89E5"
 													path="SLA Management/Web/sla_status_inprogress.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -760,7 +760,7 @@
 											<Value>Completed</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5EA598F483ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-06FC127009E5"
 													path="SLA Management/Web/sla_status_completed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -804,7 +804,7 @@
 											<Value>Cancelled</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5EA598F883ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-06FC127409E5"
 													path="SLA Management/Web/sla_status_cancel.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -848,7 +848,7 @@
 											<Value>Paused</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5EA598E883ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-06FC123B09E5"
 													path="SLA Management/Web/sla_status_paused.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -892,7 +892,7 @@
 											<Value>Started</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5EA598E483ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-06FC123709E5"
 													path="SLA Management/Web/sla_status_started.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1245,7 +1245,7 @@
 							</FalseDisplayName>
 							<FalseIcon>
 								<uri
-									id="000C2934-9B63-A1EE-B5B7-5EA598F083ED"
+									id="28DFEB6B-98A5-A1EE-B5BB-06FC126C09E5"
 									path="SLA Management/Web/sla_status_inactive.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1273,7 +1273,7 @@
 							</TrueDisplayName>
 							<TrueIcon>
 								<uri
-									id="000C2934-9B63-A1EE-B5B7-5EA598FC83ED"
+									id="28DFEB6B-98A5-A1EE-B5BB-06FC127809E5"
 									path="SLA Management/Web/sla_status_active.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -2736,7 +2736,7 @@
 			<Email>
 				<Email
 					type="com.cordys.entity.buildingblocks.email.Email"
-					typeVersion="EA009434-A340-4D6E-AF58-3FDA-03E0EDA0"
+					typeVersion="B59CF123-2383-49B2-8C3E-D8F323D8F3F8"
 					RuntimeDocumentID="98FA9BBD-851C-A1EB-8B91-D644B84A5972">
 					<DocumentID>98FA9BBD-851C-A1EB-8B91-D644B84A1972</DocumentID>
 					<Name>Email</Name>

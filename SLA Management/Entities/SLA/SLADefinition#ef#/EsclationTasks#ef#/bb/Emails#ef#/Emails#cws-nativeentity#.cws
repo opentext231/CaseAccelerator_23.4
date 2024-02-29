@@ -728,7 +728,7 @@
 		</IdentityBuildingBlock>
 		<EmailLogBuildingBlock
 			type="com.cordys.entity.buildingblocks.emaillog.EmailLogBuildingBlock"
-			typeVersion="67141489-10E3-4E57-AB65-80B9133B1AE6"
+			typeVersion="28043D00-307B-49CD-90D7-5D4A04DF5025"
 			RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-5D46887A1972">
 			<DocumentID>98FA9BBD-851C-A1EB-8B5F-5D468879D972</DocumentID>
 			<Name>EmailLog</Name>
@@ -822,7 +822,7 @@
 					<CreationDate>2020-11-23T11:19:42.137</CreationDate>
 					<Notes/>
 					<ConflictLevel></ConflictLevel>
-					<DataType>Text</DataType>
+					<DataType>LongText</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -838,28 +838,25 @@
 					</BuildingBlock>
 					<DisplayName/>
 					<OwnedTypeDefinition>
-						<SmallTextPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-5D4688781972">
-							<DocumentID>98FA9BBD-851C-A1EB-8B5F-5D468877D972</DocumentID>
-							<Name>98FA9BBD-851C-A1EB-8B5F-5D468877D972</Name>
-							<Description>98FA9BBD-851C-A1EB-8B5F-5D468877D972</Description>
-							<CreatedBy>Joe Lewis</CreatedBy>
-							<CreationDate>2020-11-23T11:19:42.136</CreationDate>
+							RuntimeDocumentID="28DFEB6B-98A5-A1EE-B5BB-17869E5649E5">
+							<DocumentID>27065D0F-16FF-43B2-919B-212DB9AB5B33</DocumentID>
+							<Name>27065D0F-16FF-43B2-919B-212DB9AB5B33</Name>
+							<Description/>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2024-02-29T10:22:24.634</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
-							<Length>4000</Length>
-							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
-						</SmallTextPropertyDefinition>
+						</LongTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="98FA9BBD-851C-A1EB-8B5F-5D468877D972"
+							id="27065D0F-16FF-43B2-919B-212DB9AB5B33"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -873,7 +870,7 @@
 					<CreationDate>2020-11-23T11:19:42.134</CreationDate>
 					<Notes/>
 					<ConflictLevel></ConflictLevel>
-					<DataType>Text</DataType>
+					<DataType>LongText</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -889,28 +886,25 @@
 					</BuildingBlock>
 					<DisplayName/>
 					<OwnedTypeDefinition>
-						<SmallTextPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-5D4688771972">
-							<DocumentID>98FA9BBD-851C-A1EB-8B5F-5D468876D972</DocumentID>
-							<Name>98FA9BBD-851C-A1EB-8B5F-5D468876D972</Name>
-							<Description>98FA9BBD-851C-A1EB-8B5F-5D468876D972</Description>
-							<CreatedBy>Joe Lewis</CreatedBy>
-							<CreationDate>2020-11-23T11:19:42.152</CreationDate>
+							RuntimeDocumentID="28DFEB6B-98A5-A1EE-B5BB-17869E5689E5">
+							<DocumentID>DD6149CE-CB7F-41B9-A509-886697F27120</DocumentID>
+							<Name>DD6149CE-CB7F-41B9-A509-886697F27120</Name>
+							<Description/>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2024-02-29T10:22:23.82</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
-							<Length>4000</Length>
-							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
-						</SmallTextPropertyDefinition>
+						</LongTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="98FA9BBD-851C-A1EB-8B5F-5D468876D972"
+							id="DD6149CE-CB7F-41B9-A509-886697F27120"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -924,7 +918,7 @@
 					<CreationDate>2020-11-23T11:19:42.175</CreationDate>
 					<Notes/>
 					<ConflictLevel></ConflictLevel>
-					<DataType>Text</DataType>
+					<DataType>LongText</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -940,28 +934,25 @@
 					</BuildingBlock>
 					<DisplayName/>
 					<OwnedTypeDefinition>
-						<SmallTextPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-5D4688761972">
-							<DocumentID>98FA9BBD-851C-A1EB-8B5F-5D468875D972</DocumentID>
-							<Name>98FA9BBD-851C-A1EB-8B5F-5D468875D972</Name>
-							<Description>98FA9BBD-851C-A1EB-8B5F-5D468875D972</Description>
-							<CreatedBy>Joe Lewis</CreatedBy>
-							<CreationDate>2020-11-23T11:19:42.14</CreationDate>
+							RuntimeDocumentID="28DFEB6B-98A5-A1EE-B5BB-17869E56C9E5">
+							<DocumentID>9F02476C-AEDF-4C22-8871-4AFEC90A430C</DocumentID>
+							<Name>9F02476C-AEDF-4C22-8871-4AFEC90A430C</Name>
+							<Description/>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2024-02-29T10:22:23.772</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
-							<Length>4000</Length>
-							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
-						</SmallTextPropertyDefinition>
+						</LongTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="98FA9BBD-851C-A1EB-8B5F-5D468875D972"
+							id="9F02476C-AEDF-4C22-8871-4AFEC90A430C"
 						/>
 					</TypeDefinition>
 				</Property>

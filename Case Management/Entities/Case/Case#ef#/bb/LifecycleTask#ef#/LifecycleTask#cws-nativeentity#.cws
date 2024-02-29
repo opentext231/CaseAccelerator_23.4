@@ -584,7 +584,7 @@
 		</IdentityBuildingBlock>
 		<InboxTaskBuildingBlock
 			type="com.cordys.entity.buildingblocks.inboxtask.InboxTaskBuildingBlock"
-			typeVersion="D646C9D1-F5CF-4407-BF9E-7F42B1C9158F"
+			typeVersion="33186206-7B8F-4F57-A470-70D2CE850F9A"
 			RuntimeDocumentID="90B11C8A-3947-11E5-F7F0-5406E6CE7FCB">
 			<DocumentID>98FA9BBD-851C-A1EA-BFE9-A70F16FF196C</DocumentID>
 			<Name>Task</Name>
@@ -4329,7 +4329,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4398,7 +4398,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4467,7 +4467,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4536,7 +4536,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -5616,7 +5616,7 @@
 											<Value>2</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F72D43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76292609E5"
 													path="Case Management/Web/Status_Assigned.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5660,7 +5660,7 @@
 											<Value>5</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F72143ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76291A09E5"
 													path="Case Management/Web/Status_Completed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5704,7 +5704,7 @@
 											<Value>1</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F71D43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76291609E5"
 													path="Case Management/Web/Status_Created.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5748,7 +5748,7 @@
 											<Value>3</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F71543ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76290E09E5"
 													path="Case Management/Web/Status_In Progress.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5792,7 +5792,7 @@
 											<Value>4</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F6F543ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7628EE09E5"
 													path="Case Management/Web/Status_Suspended.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5836,7 +5836,7 @@
 											<Value>6</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F71143ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76290A09E5"
 													path="Case Management/Web/Status_Obselete.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5880,7 +5880,7 @@
 											<Value>7</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F70543ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7628FE09E5"
 													path="Case Management/Web/Status_Paused.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -5924,7 +5924,7 @@
 											<Value>8</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F71943ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76291209E5"
 													path="Case Management/Web/Status_Failed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -6059,7 +6059,7 @@
 			<Email>
 				<Email
 					type="com.cordys.entity.buildingblocks.email.Email"
-					typeVersion="EA009434-A340-4D6E-AF58-3FDA-03E0EDA0"
+					typeVersion="B59CF123-2383-49B2-8C3E-D8F323D8F3F8"
 					RuntimeDocumentID="98FA9BBD-851C-A1EB-8249-8860C4B9196D">
 					<DocumentID>98FA9BBD-851C-A1EB-8249-8860C4B8D96D</DocumentID>
 					<Name>Email</Name>

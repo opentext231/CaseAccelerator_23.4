@@ -1337,7 +1337,7 @@
 											<Value>Open</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F70943ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76290209E5"
 													path="Case Management/Web/Status_Open.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1381,7 +1381,7 @@
 											<Value>In Progress</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F71543ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76290E09E5"
 													path="Case Management/Web/Status_In Progress.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1425,7 +1425,7 @@
 											<Value>Resolved</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F6FD43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7628F609E5"
 													path="Case Management/Web/Status_Resolved.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1469,7 +1469,7 @@
 											<Value>Assigned</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F72D43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76292609E5"
 													path="Case Management/Web/Status_Assigned.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1513,7 +1513,7 @@
 											<Value>Canceled</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F72943ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76292209E5"
 													path="Case Management/Web/Status_Cancelled.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1557,7 +1557,7 @@
 											<Value>Solution Proposed</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F6F943ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7628F209E5"
 													path="Case Management/Web/Status_Solution Proposed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1601,7 +1601,7 @@
 											<Value>On Hold</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F70D43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76290609E5"
 													path="Case Management/Web/Status_On Hold.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1645,7 +1645,7 @@
 											<Value>Rejected</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F70143ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7628FA09E5"
 													path="Case Management/Web/Status_Rejected.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1689,7 +1689,7 @@
 											<Value>Accepted</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F73143ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76292A09E5"
 													path="Case Management/Web/Status_Accepted.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1733,7 +1733,7 @@
 											<Value>Closed</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F72543ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76291E09E5"
 													path="Case Management/Web/Status_Closed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -2213,7 +2213,7 @@
 											<Value>SLA Not Attached</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F79C43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B76299509E5"
 													path="Case Management/Web/case_status_open.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -2257,7 +2257,7 @@
 											<Value>Within Time Limit</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F7B843ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7629B109E5"
 													path="Case Management/Web/case_status_active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -2301,7 +2301,7 @@
 											<Value>Breached</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F7A843ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7629A109E5"
 													path="Case Management/Web/case_status_inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -6394,7 +6394,7 @@
 			<Email>
 				<Email
 					type="com.cordys.entity.buildingblocks.email.Email"
-					typeVersion="EA009434-A340-4D6E-AF58-3FDA-03E0EDA0"
+					typeVersion="B59CF123-2383-49B2-8C3E-D8F323D8F3F8"
 					RuntimeDocumentID="98FA9BBD-851C-A1EB-8248-D54F59FE196D">
 					<DocumentID>98FA9BBD-851C-A1EB-8248-D54F59FDD96D</DocumentID>
 					<Name>Email</Name>

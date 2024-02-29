@@ -797,7 +797,7 @@
 							<upperBound>1</upperBound>
 							<DefaultImage>
 								<uri
-									id="000C2934-9B63-A1EE-B5B7-6023B6A8C3ED"
+									id="28DFEB6B-98A5-A1EE-B5BB-087A24B8C9E5"
 									path="Schedule Management/Web/Workflow_default_image.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1101,7 +1101,7 @@
 											<Value>Active</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6C043ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24CCC9E5"
 													path="Schedule Management/Web/Schedule_Active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1145,7 +1145,7 @@
 											<Value>Inactive</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6B643ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24C4C9E5"
 													path="Schedule Management/Web/Schedule_InActive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1189,7 +1189,7 @@
 											<Value>Draft</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6BA43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24C8C9E5"
 													path="Schedule Management/Web/Schedule_Draft.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

@@ -1139,7 +1139,7 @@
 											<Value>Draft</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6C1C3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D9449E5"
 													path="Document Management/Web/docmgt_status_draft.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1183,7 +1183,7 @@
 											<Value>Review</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6ADC3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D8049E5"
 													path="Document Management/Web/docmgt_status_waitingforreview.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1227,7 +1227,7 @@
 											<Value>Approved</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6C9C3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D9C49E5"
 													path="Document Management/Web/docmgt_status_approved.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1271,7 +1271,7 @@
 											<Value>Rejected</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6B5C3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D8849E5"
 													path="Document Management/Web/docmgt_status_rejected.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1315,7 +1315,7 @@
 											<Value>New</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6B9C3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D8C49E5"
 													path="Document Management/Web/docmgt_status_new.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1359,7 +1359,7 @@
 											<Value>Archived</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6C5C3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D9849E5"
 													path="Document Management/Web/docmgt_status_archived.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1403,7 +1403,7 @@
 											<Value>Validated</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6B1C3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D8449E5"
 													path="Document Management/Web/docmgt_status_validated.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

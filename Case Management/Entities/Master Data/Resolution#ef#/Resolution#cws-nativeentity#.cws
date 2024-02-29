@@ -691,7 +691,7 @@
 											<Value>1</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F7B843ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7629B109E5"
 													path="Case Management/Web/case_status_active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -735,7 +735,7 @@
 											<Value>0</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-4474F7A843ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0B7629A109E5"
 													path="Case Management/Web/case_status_inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

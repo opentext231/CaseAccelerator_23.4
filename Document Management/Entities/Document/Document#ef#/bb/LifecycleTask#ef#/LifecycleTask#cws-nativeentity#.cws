@@ -575,7 +575,7 @@
 		</IdentityBuildingBlock>
 		<InboxTaskBuildingBlock
 			type="com.cordys.entity.buildingblocks.inboxtask.InboxTaskBuildingBlock"
-			typeVersion="D646C9D1-F5CF-4407-BF9E-7F42B1C9158F"
+			typeVersion="33186206-7B8F-4F57-A470-70D2CE850F9A"
 			RuntimeDocumentID="90B11C8A-3947-11E5-F7F0-5406E6CE7FCB">
 			<DocumentID>98FA9BBD-851C-A1EB-8003-ADFB6243196C</DocumentID>
 			<Name>Task</Name>
@@ -4320,7 +4320,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4389,7 +4389,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4458,7 +4458,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4527,7 +4527,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>

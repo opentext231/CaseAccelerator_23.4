@@ -782,7 +782,7 @@
 											<Value>1</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5EA590ED83ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-06AAA10389E5"
 													path="Task List Management/Web/tasklist_status_active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -826,7 +826,7 @@
 											<Value>0</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5EA590E183ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-06AAA0F009E5"
 													path="Task List Management/Web/tasklist_status_inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

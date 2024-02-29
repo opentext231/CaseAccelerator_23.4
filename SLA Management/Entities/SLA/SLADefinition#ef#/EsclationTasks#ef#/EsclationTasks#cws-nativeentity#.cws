@@ -1652,7 +1652,7 @@
 			<Email>
 				<Email
 					type="com.cordys.entity.buildingblocks.email.Email"
-					typeVersion="EA009434-A340-4D6E-AF58-3FDA-03E0EDA0"
+					typeVersion="B59CF123-2383-49B2-8C3E-D8F323D8F3F8"
 					RuntimeDocumentID="98FA9BBD-851C-A1EB-8B5F-40E3FA761972">
 					<DocumentID>98FA9BBD-851C-A1EB-8B5F-40E3FA75D972</DocumentID>
 					<Name>Email</Name>

@@ -12,7 +12,7 @@
 	<NamespacePrefix></NamespacePrefix>
 	<SourceFolder>
 		<uri
-			id="98FA9BBD-851C-A1EB-A51B-865027B0997E"
+			id="28DFEB6B-98A5-A1EE-B5BB-09F80FD109E5"
 			path="Import Document Management/Import"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>

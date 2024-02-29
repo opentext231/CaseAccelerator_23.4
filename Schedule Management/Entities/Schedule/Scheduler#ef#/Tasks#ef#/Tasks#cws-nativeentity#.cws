@@ -1137,7 +1137,7 @@
 											<Value>New</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6B243ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24C0C9E5"
 													path="Schedule Management/Web/tasklist_status_open.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1181,7 +1181,7 @@
 											<Value>Assigned</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6BA43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24C8C9E5"
 													path="Schedule Management/Web/Schedule_Draft.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1225,7 +1225,7 @@
 											<Value>In Review</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6BA43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24C8C9E5"
 													path="Schedule Management/Web/Schedule_Draft.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1269,7 +1269,7 @@
 											<Value>In Progress</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6BA43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24C8C9E5"
 													path="Schedule Management/Web/Schedule_Draft.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1313,7 +1313,7 @@
 											<Value>Completed</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6ACC3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24BCC9E5"
 													path="Schedule Management/Web/task_status_completed.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1357,7 +1357,7 @@
 											<Value>Planned</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6023B6BA43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-087A24C8C9E5"
 													path="Schedule Management/Web/Schedule_Draft.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

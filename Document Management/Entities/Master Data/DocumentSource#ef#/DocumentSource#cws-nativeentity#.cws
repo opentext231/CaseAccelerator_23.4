@@ -709,7 +709,7 @@
 											<Value>1</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6CDC3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92DA049E5"
 													path="Document Management/Web/docmgt_status_active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -753,7 +753,7 @@
 											<Value>0</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-6287B6BDC3ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-0AC92D9049E5"
 													path="Document Management/Web/docmgt_status_inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

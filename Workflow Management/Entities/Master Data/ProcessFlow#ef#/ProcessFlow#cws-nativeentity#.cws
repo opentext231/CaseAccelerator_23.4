@@ -706,7 +706,7 @@
 											<Value>1</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5CC9F64B43ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-04C5863F49E5"
 													path="Workflow Management/Web/Workflow_status_active.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -750,7 +750,7 @@
 											<Value>0</Value>
 											<Icon>
 												<uri
-													id="000C2934-9B63-A1EE-B5B7-5CC9F64343ED"
+													id="28DFEB6B-98A5-A1EE-B5BB-04C5863749E5"
 													path="Workflow Management/Web/Workflow_status_inactive.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
